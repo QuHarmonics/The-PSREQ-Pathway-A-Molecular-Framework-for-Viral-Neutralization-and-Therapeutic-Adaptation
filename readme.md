@@ -82,7 +82,7 @@ A therapeutic dose includes:
 
 The molecular composition of the PSREQ therapeutic complex is:
 
-C25H40N6O10+Zn2++2 Mg2+\\text{C}\_{25}\\text{H}\_{40}\\text{N}\_6\\text{O}\_{10} + \\text{Zn}^{2+} + 2 \\, \\text{Mg}^{2+}C25​H40​N6​O10​+Zn2++2Mg2+
+$C_{25}H_{40}N_6O_{10} + Zn^{2+} + 2 \, Mg^{2+}$
 
 * * *
 
