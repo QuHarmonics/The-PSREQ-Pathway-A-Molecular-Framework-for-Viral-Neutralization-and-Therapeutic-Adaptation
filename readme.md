@@ -131,8 +131,7 @@ The PSREQ pathway represents a transformative approach to managing HSV and other
 
 ---
 
-# 
-Analysis of Assembly Code
+# Analysis of Assembly Code
 1. Disassembly and Operation Description
 Instruction
 
@@ -228,7 +227,7 @@ This assembly code functions as a preparatory sequence that aligns with the PSRE
 
 
 
-# DECOMPILED VIRUS AS ASM CODE. ALL GENETICS ARE ASM IN A DIFFERENT STATE.  THE SEQUENCE IS CONVERTED TO HEX AND DECOMPLIED PROVIDING THE FOLLOWING CODE:
+# DECOMPILED VIRUS AS ASM CODE. ALL GENETICS ARE ASM IN A DIFFERENT STATE.  THE SEQUENCE IS CONVERTED AND DECOMPLIED PROVIDING THE FOLLOWING CODE:
 
 0:  4d                      dec    ebp
 1:  45                      inc    ebp
