@@ -11,7 +11,7 @@ Herpes simplex virus (HSV) remains a significant public health challenge due to 
 The **PSREQ pathway** introduces a novel therapeutic approach by combining a peptide-based intervention with ionic stabilization. This system employs a flexible and adaptable peptide motif (PSREQ) that binds specifically to conserved viral proteins, complemented by zinc (Zn²⁺) and magnesium (Mg²⁺) ions to ensure stability and sustained efficacy. This molecular framework not only neutralizes HSV but also demonstrates broad applicability to other diseases, providing a foundational model for therapeutic intervention.
 
 * * *
-![GitHub Logo]([(https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/the_PSREQ_peptide_structure.png)")
+![The PSREQ Peptide Structure](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/raw/main/the_PSREQ_peptide_structure.png "The PSREQ Peptide Structure")
 
 **Understanding HSV Pathophysiology**
 -------------------------------------
