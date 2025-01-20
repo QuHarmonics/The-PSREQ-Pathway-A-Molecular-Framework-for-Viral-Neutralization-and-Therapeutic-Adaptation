@@ -62,9 +62,9 @@ The PSREQ Pathway is not only a response to the urgent need for effective viral 
 #### **1. Molecular Binding Stability (MBS)**
 
 **Formula**:  
-\[
+$$\[
 E_b = k_b \cdot \frac{q_1 q_2}{r} + H
-\]  
+\]$$  
 - \(E_b\): Binding energy.  
 - \(k_b\): Binding constant.  
 - \(q_1, q_2\): Charges of interacting molecules.  
