@@ -101,9 +101,7 @@ The PSREQ Pathway is not only a response to the urgent need for effective viral 
 #### **4. Proline-Glycine Flexibility Index (PGFI)**
 
 **Formula**:  
-# $$\[
-F = \frac{[Pro]}{[Gly] + [Pro]}
-\]$$  
+# $$\[F = \frac{[Pro]}{[Gly] + [Pro]}\]$$  
 - \(F\): Flexibility index.  
 - \([Pro]\): Concentration of proline residues.  
 - \([Gly]\): Concentration of glycine residues.  
@@ -115,9 +113,7 @@ F = \frac{[Pro]}{[Gly] + [Pro]}
 #### **5. Viral Inhibition Efficiency (VIE)**
 
 **Formula**:  
-# $$\[
-VIE = \frac{K_d}{IC_{50}}
-\]$$  
+# $$\[VIE = \frac{K_d}{IC_{50}}\]$$  
 - \(VIE\): Efficiency of viral inhibition.  
 - \(K_d\): Binding dissociation constant.  
 - \(IC_{50}\): Half-maximal inhibitory concentration.  
@@ -129,9 +125,7 @@ VIE = \frac{K_d}{IC_{50}}
 #### **6. Energy Buffering Factor (EBF)**
 
 **Formula**:  
-# $$\[
-E_{\text{buffer}} = [Mg^{2+}] \cdot \Delta H_{\text{kinetic}}
-\]$$  
+# $$\[E_{\text{buffer}} = [Mg^{2+}] \cdot \Delta H_{\text{kinetic}}\]$$  
 - \(E_{\text{buffer}}\): Energy stabilization factor.  
 - \([Mg^{2+}]\): Magnesium ion concentration.  
 - \(\Delta H_{\text{kinetic}}\): Kinetic energy fluctuation.  
@@ -143,9 +137,7 @@ E_{\text{buffer}} = [Mg^{2+}] \cdot \Delta H_{\text{kinetic}}
 #### **7. Structural Disruption Potential (SDP)**
 
 **Formula**:  
-# $$\[
-SDP = \frac{\sum_{i} F_i \cdot r_i}{\sum_{j} E_j}
-\]$$ 
+# $$\[SDP = \frac{\sum_{i} F_i \cdot r_i}{\sum_{j} E_j}\]$$ 
 - \(SDP\): Disruption potential.  
 - \(F_i\): Force on viral structure \(i\).  
 - \(r_i\): Distance for force application.  
@@ -158,9 +150,7 @@ SDP = \frac{\sum_{i} F_i \cdot r_i}{\sum_{j} E_j}
 #### **8. Molecular Compression Efficiency (MCE)**
 
 **Formula**:  
-# $$\[
-MCE = \frac{E_{\text{total}}}{E_{\text{compressed}}}
-\]$$ 
+# $$\[MCE = \frac{E_{\text{total}}}{E_{\text{compressed}}}\]$$ 
 - \(MCE\): Efficiency of molecular energy compression.  
 - \(E_{\text{total}}\): Total system energy.  
 - \(E_{\text{compressed}}\): Compressed energy after recursive optimization.  
@@ -172,9 +162,7 @@ MCE = \frac{E_{\text{total}}}{E_{\text{compressed}}}
 #### **9. Cellular Environmental Influence (CEI)**
 
 **Formula**:  
-# $$\[
-C_{\text{env}} = \text{Len}(N_{\text{cell}} - P_{\text{genome}})
-\]$$  
+# $$\[C_{\text{env}} = \text{Len}(N_{\text{cell}} - P_{\text{genome}})\]$$  
 - \(C_{\text{env}}\): Environmental container size.  
 - \(N_{\text{cell}}\): Active cellular state.  
 - \(P_{\text{genome}}\): Genetic baseline sequence.  
@@ -186,9 +174,7 @@ C_{\text{env}} = \text{Len}(N_{\text{cell}} - P_{\text{genome}})
 #### **10. Regeneration Potential (RP)**
 
 **Formula**:  
-# $$\[
-RP = \text{Proteome} - \text{Cellular Waste}
-\]$$  
+# $$\[RP = \text{Proteome} - \text{Cellular Waste}\]$$  
 - \(RP\): Regenerative capacity.  
 - \(\text{Proteome}\): Functional protein output.  
 - \(\text{Cellular Waste}\): Accumulated byproducts of metabolism.  
