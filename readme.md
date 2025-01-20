@@ -94,88 +94,152 @@ The PSREQ Pathway is not only a response to the urgent need for effective viral 
 ---
 # Tools & Formulas 
 
-### **Formula Cheat Sheet**
+### Formula Cheat Sheet: Comprehensive Molecular and Systemic Framework
 
-#### **1\. Molecular Binding Stability (MBS)**
+---
 
-*   **Formula**: $$Eb\=kb⋅q1q2r+HE\_b = k\_b \\cdot \\frac{q\_1 q\_2}{r} + HEb​\=kb​⋅rq1​q2​​+H$$
-    *   EbE\_bEb​: Binding energy.
-    *   kbk\_bkb​: Binding constant.
-    *   $$q1,q2q\_1, q\_2q1​,q2​$$: Charges of interacting molecules.
-    *   rrr: Distance between charges.
-    *   HHH: Harmonic buffer for energy fluctuations.
-*   **Purpose**: Calculates the stability of molecular binding under environmental fluctuations.
+#### **1. Molecular Binding Stability (MBS)**
 
-* * *
+**Formula**:  
+\[
+E_b = k_b \cdot \frac{q_1 q_2}{r} + H
+\]  
+- \(E_b\): Binding energy.  
+- \(k_b\): Binding constant.  
+- \(q_1, q_2\): Charges of interacting molecules.  
+- \(r\): Distance between charges.  
+- \(H\): Harmonic buffer for energy fluctuations.  
 
-#### **2\. Ionic Coordination Ratio (ICR)**
+**Purpose**: Calculates the stability of molecular binding under environmental fluctuations.
 
-*   **Formula**: $$Rion\=\[Zn2+\]\[Mg2+\]R\_{ion} = \\frac{\[Zn^{2+}\]}{\[Mg^{2+}\]}Rion​\=\[Mg2+\]\[Zn2+\]​$$
-    *   RionR\_{ion}Rion$$​: Ratio of zinc to magnesium ions.
-    *   \[Zn2+\]\[Zn^{2+}\]\[Zn2+\]: Concentration of zinc ions.
-    *   \[Mg2+\]\[Mg^{2+}\]\[Mg2+\]: Concentration of magnesium ions.
-*   **Purpose**: Optimizes the balance of stabilizing ions in molecular systems.
+---
 
-* * *
+#### **2. Ionic Coordination Ratio (ICR)**
 
-#### **3\. Recursive Harmonic Alignment (RHA)**
+**Formula**:  
+\[
+R_{\text{ion}} = \frac{[Zn^{2+}]}{[Mg^{2+}]}
+\]  
+- \(R_{\text{ion}}\): Ratio of zinc to magnesium ions.  
+- \([Zn^{2+}]\): Concentration of zinc ions.  
+- \([Mg^{2+}]\): Concentration of magnesium ions.  
 
-*   **Formula**: $$H\=1n∑i\=1n(Ei−EtEt)2H = \\frac{1}{n} \\sum\_{i=1}^{n} \\left( \\frac{E\_i - E\_t}{E\_t} \\right)^2H\=n1​∑i\=1n​(Et​Ei​−Et​​)2$$
-    *   HHH: Harmonic alignment metric.
-    *   EiE\_iEi​: Energy at iteration iii.
-    *   EtE\_tEt​: Target energy.
-    *   nnn: Number of iterations.
-*   **Purpose**: Aligns kinetic and thermodynamic properties to achieve stable molecular behavior.
+**Purpose**: Optimizes the balance of stabilizing ions in molecular systems.
 
-* * *
+---
 
-#### **4\. Proline-Glycine Flexibility Index (PGFI)**
+#### **3. Recursive Harmonic Alignment (RHA)**
 
-*   **Formula**: $$F\=\[Pro\]\[Gly\]+\[Pro\]F = \\frac{\[Pro\]}{\[Gly\] + \[Pro\]}F\=\[Gly\]+\[Pro\]\[Pro\]​$$
-    *   FFF: Flexibility index.
-    *   \[Pro\]\[Pro\]\[Pro\]: Concentration of proline residues.
-    *   \[Gly\]\[Gly\]\[Gly\]: Concentration of glycine residues.
-*   **Purpose**: Measures structural flexibility critical for dynamic binding.
+**Formula**:  
+\[
+H = \frac{1}{n} \sum_{i=1}^{n} \left( \frac{E_i - E_t}{E_t} \right)^2
+\]  
+- \(H\): Harmonic alignment metric.  
+- \(E_i\): Energy at iteration \(i\).  
+- \(E_t\): Target energy.  
+- \(n\): Number of iterations.  
 
-* * *
+**Purpose**: Aligns kinetic and thermodynamic properties to achieve stable molecular behavior.
 
-#### **5\. Viral Inhibition Efficiency (VIE)**
+---
 
-*   **Formula**: $$VIE\=KdIC50VIE = \\frac{K\_d}{IC\_{50}}VIE\=IC50​Kd​​$$
-    *   VIEVIEVIE: Efficiency of viral inhibition.
-    *   KdK\_dKd​: Binding dissociation constant.
-    *   IC50IC\_{50}IC50​: Half-maximal inhibitory concentration.
-*   **Purpose**: Quantifies the effectiveness of a molecule in inhibiting viral processes.
+#### **4. Proline-Glycine Flexibility Index (PGFI)**
 
-* * *
+**Formula**:  
+\[
+F = \frac{[Pro]}{[Gly] + [Pro]}
+\]  
+- \(F\): Flexibility index.  
+- \([Pro]\): Concentration of proline residues.  
+- \([Gly]\): Concentration of glycine residues.  
 
-#### **6\. Energy Buffering Factor (EBF)**
+**Purpose**: Measures structural flexibility critical for dynamic binding.
 
-*   **Formula**: $$Ebuffer\=Mg2+⋅ΔHkineticE\_{buffer} = Mg^{2+} \\cdot \\Delta H\_{kinetic}Ebuffer​\=Mg2+⋅ΔHkinetic​$$
-    *   EbufferE\_{buffer}Ebuffer​: Energy stabilization factor.
-    *   Mg2+Mg^{2+}Mg2+: Magnesium ion concentration.
-    *   ΔHkinetic\\Delta H\_{kinetic}ΔHkinetic​: Kinetic energy fluctuation.
-*   **Purpose**: Ensures kinetic stability during molecular interaction.
+---
 
-* * *
+#### **5. Viral Inhibition Efficiency (VIE)**
 
-#### **7\. Structural Disruption Potential (SDP)**
+**Formula**:  
+\[
+VIE = \frac{K_d}{IC_{50}}
+\]  
+- \(VIE\): Efficiency of viral inhibition.  
+- \(K_d\): Binding dissociation constant.  
+- \(IC_{50}\): Half-maximal inhibitory concentration.  
 
-*   **Formula**: $$SDP\=∑iFi⋅ri∑jEjSDP = \\frac{\\sum\_{i} F\_i \\cdot r\_i}{\\sum\_{j} E\_j}SDP\=∑j​Ej​∑i​Fi​⋅ri​​$$
-    *   SDPSDPSDP: Disruption potential.
-    *   FiF\_iFi​: Force on viral structure iii.
-    *   rir\_iri​: Distance for force application.
-    *   EjE\_jEj​: Total energy of viral components.
-*   **Purpose**: Predicts the molecule’s ability to disrupt viral assembly or replication.
+**Purpose**: Quantifies the effectiveness of a molecule in inhibiting viral processes.
 
-* * *
+---
 
-#### **8\. Molecular Compression Efficiency (MCE)**
+#### **6. Energy Buffering Factor (EBF)**
 
-*   **Formula**: $$MCE\=EtotalEcompressedMCE = \\frac{E\_{total}}{E\_{compressed}}MCE\=Ecompressed​Etotal​​$$
-    *   MCEMCEMCE: Efficiency of molecular energy compression.
-    *   EtotalE\_{total}Etotal​: Total system energy.
-    *   EcompressedE\_{compressed}Ecompressed​: Compressed energy after recursive optimization.
-*   **Purpose**: Evaluates the system’s ability to achieve harmonic energy alignment.
+**Formula**:  
+\[
+E_{\text{buffer}} = [Mg^{2+}] \cdot \Delta H_{\text{kinetic}}
+\]  
+- \(E_{\text{buffer}}\): Energy stabilization factor.  
+- \([Mg^{2+}]\): Magnesium ion concentration.  
+- \(\Delta H_{\text{kinetic}}\): Kinetic energy fluctuation.  
 
-* * *
+**Purpose**: Ensures kinetic stability during molecular interaction.
+
+---
+
+#### **7. Structural Disruption Potential (SDP)**
+
+**Formula**:  
+\[
+SDP = \frac{\sum_{i} F_i \cdot r_i}{\sum_{j} E_j}
+\]  
+- \(SDP\): Disruption potential.  
+- \(F_i\): Force on viral structure \(i\).  
+- \(r_i\): Distance for force application.  
+- \(E_j\): Total energy of viral components.  
+
+**Purpose**: Predicts the molecule’s ability to disrupt viral assembly or replication.
+
+---
+
+#### **8. Molecular Compression Efficiency (MCE)**
+
+**Formula**:  
+\[
+MCE = \frac{E_{\text{total}}}{E_{\text{compressed}}}
+\]  
+- \(MCE\): Efficiency of molecular energy compression.  
+- \(E_{\text{total}}\): Total system energy.  
+- \(E_{\text{compressed}}\): Compressed energy after recursive optimization.  
+
+**Purpose**: Evaluates the system’s ability to achieve harmonic energy alignment.
+
+---
+
+#### **9. Cellular Environmental Influence (CEI)**
+
+**Formula**:  
+\[
+C_{\text{env}} = \text{Len}(N_{\text{cell}} - P_{\text{genome}})
+\]  
+- \(C_{\text{env}}\): Environmental container size.  
+- \(N_{\text{cell}}\): Active cellular state.  
+- \(P_{\text{genome}}\): Genetic baseline sequence.  
+
+**Purpose**: Quantifies the environmental influence on cellular activity.
+
+---
+
+#### **10. Regeneration Potential (RP)**
+
+**Formula**:  
+\[
+RP = \text{Proteome} - \text{Cellular Waste}
+\]  
+- \(RP\): Regenerative capacity.  
+- \(\text{Proteome}\): Functional protein output.  
+- \(\text{Cellular Waste}\): Accumulated byproducts of metabolism.  
+
+**Purpose**: Evaluates the system's capacity for self-renewal and preparation for future biological challenges.
+
+---
+
+This cheat sheet provides a structured overview of the formulas, ensuring clarity and alignment with molecular bioengineering principles. Each formula is tied to a specific role within the PSREQ framework, enhancing understanding and facilitating practical application.
