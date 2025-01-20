@@ -156,9 +156,6 @@ Your GitHub repository looks well-structured and provides a detailed, profession
 | Disruptor     | C\(_{61}\)H\(_{142}\)N\(_{22}\)O\(_{5}\)S\(_{7}\)        | `CC(O)[C@@H](CNCCNCCN[C@@H](CS)CN[C@@H](CS)CN[C@@H](C)CN[C@@H](C)CN[C@H](CN[C@@H](C)CNCCN[C@@H](CS)CN[C@@H](C)C(=O)C(O)=O)C(C)O)NC[C@H](C)NC[C@H](CS)NCCNCCNC[C@H](C)NC[C@H](CS)NC[C@H](C)NC[C@H](CS)NC[C@H](CS)NN` | Disruption    | Breaks viral disulfide bonds, halting replication and assembly.                                  | HSV, HIV, Oncology       |
 
 ---
-
-By integrating these refinements, the repository will provide a clearer, more comprehensive, and more engaging resource for researchers. Let me know if you would like specific additions implemented.
----
 # Tools & Formulas 
 
 ### **Formula Cheat Sheet**
