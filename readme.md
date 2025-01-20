@@ -96,8 +96,8 @@ This structured approach ensures a professional and clear presentation, linking 
 
 #### **1\. Molecular Binding Stability (MBS)**
 
-*   **Formula**: Eb\=kb⋅q1q2r+HE\_b = k\_b \\cdot \\frac{q\_1 q\_2}{r} + HEb​\=kb​⋅rq1​q2​​+H
-    *   EbE\_bEb​: Binding energy.
+*   **Formula**: $$Eb\=kb⋅q1q2r+HE\_b = k\_b \\cdot \\frac{q\_1 q\_2}{r} + HEb​\=kb​⋅rq1​q2​​+H$$
+    *  $$ EbE\_bEb​: Binding energy.$$
     *   kbk\_bkb​: Binding constant.
     *   q1,q2q\_1, q\_2q1​,q2​: Charges of interacting molecules.
     *   rrr: Distance between charges.
