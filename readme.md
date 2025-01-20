@@ -142,7 +142,7 @@ The PSREQ Pathway is not only a response to the urgent need for effective viral 
 - **\(EBF\):** Energy Buffering Factor.  
 - **\(E_{\text{stored}}\):** Energy available in the system.  
 - **\(E_{\text{demand}}\):** Energy required to sustain operations.  
-- **\(E_{\text{loss}}\):** Energy lost during system transitions.  
+- **\(E_{\text{loss}}\):** Energy lost during system transitions.   
 
   
 
