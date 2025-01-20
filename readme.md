@@ -200,6 +200,4 @@ This formatting ensures the formula, variables, and purpose are presented clearl
 
 **Purpose**: Evaluates the system's capacity for self-renewal and preparation for future biological challenges.
 
----
 
-This cheat sheet provides a structured overview of the formulas, ensuring clarity and alignment with molecular bioengineering principles. Each formula is tied to a specific role within the PSREQ framework, enhancing understanding and facilitating practical application.
