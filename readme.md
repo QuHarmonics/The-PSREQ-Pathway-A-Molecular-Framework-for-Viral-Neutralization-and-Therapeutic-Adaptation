@@ -1,33 +1,5 @@
 ## NOTE: This GIT is updating hourly
 
-
-# Table of Contents - In Progress
-
-- [Overview](#overview)
-  - [Introduction - The PSREQ Pathway](#introduction)
-  - [Lifecycle Disruptions](#lifecycle-disruptions)
-  - [Expanded Therapeutic Potential](#comparison-with-existing-therapies)
-  - [Comparison with Existing Therapies](#comparison-with-existing-therapies)
-- [Molecules](#molecules)
-  - [Molecule 1: The Adapter](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/PSREQ-Adapter-1-Molecule.md)
-    - [Download Marvin JR File](https://raw.githubusercontent.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/main/MarvinJ-Files/Molecule_1.mrv)
-    - [Visuals](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Visuals/Adapter1.png)
-  - [Molecule 2: The Stabilizer](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/PSREQ-Stabilizer-2-Molecule.md)
-    - [Download Marvin JR File](https://raw.githubusercontent.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/main/MarvinJ-Files/Molecule_2.mrv)
-    - [Visuals](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Visuals/Stabilizer2.png)
-  - [Molecule 3: The Disruptor](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/PSREQ-Disruptor-3-Molecule.md)
-    - [Download Marvin JR File](https://raw.githubusercontent.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/main/MarvinJ-Files/Molecule_3.mrv)
-    - [Visuals](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Visuals/Disruptor3.png)
-- [Applications](#applications)
-  - [Herpes Simplex Virus (HSV) - The PSREQ Pathway for HSV Neutralization and Therapeutic Adaptation](#herpes-simplex-virus-hsv)
-  - [Human Immunodeficiency Virus (HIV) - The PSREQ Pathway for HIV Neutralization and Therapeutic Innovation](#human-immunodeficiency-virus-hiv)
-- [Tools and Frameworks](#tools-and-frameworks)
-  - [Expanded Therapeutic Potential](#expanded-therapeutic-potential)
-  - [Potential Risks or Challenges](#potential-risks-or-challenges)
-- [Supporting Files](#supporting-files)
-  - [PSREQ Pathway Visualization](#psreq-pathway-visualization)
-  - [Lifecycle Flowchart](#lifecycle-flowchart)
-
 **The PSREQ Pathway: A Molecular Framework for Viral Neutralization and Therapeutic Innovation**
 ================================================================================================
 
