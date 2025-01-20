@@ -42,7 +42,7 @@ Key focus areas for therapeutic intervention include viral glycoproteins such as
 - This molecule’s diverse aromatic profile supports enhanced binding potential, possibly disrupting critical protein-protein interactions essential for HSV replication.
 - The hydrophilic regions might improve solubility and bioavailability.
 
-#### Molecule 3: `**CC(O)[C@@H](CNCCNCCN[C@@H](CS)CN[C@@H](CS)CN[C@@H](C)CN[C@@H](C)CN[C@H](CN[C@@H](C)CNCCN[C@@H](CS)CN[C@@H](C)C(=O)C(O)=O)C(C)O)NC[C@H](C)NC[C@H](CS)NCCNCCNC[C@H](C)NC[C@H](CS)NC[C@H](C)NC[C@H](CS)NC[C@H](CS)NN**`
+#### Molecule 3: `CC(O)[C@@H](CNCCNCCN[C@@H](CS)CN[C@@H](CS)CN[C@@H](C)CN[C@@H](C)CN[C@H](CN[C@@H](C)CNCCN[C@@H](CS)CN[C@@H](C)C(=O)C(O)=O)C(C)O)NC[C@H](C)NC[C@H](CS)NCCNCCNC[C@H](C)NC[C@H](CS)NC[C@H](C)NC[C@H](CS)NC[C@H](CS)NN`
 - **Molecular Formula**: C\(61\)H\(142\)N\(22\)O\(5\)S\(7\)
 - **Amine Matches**: 22
 - **Sulfhydryl Matches**: 7
