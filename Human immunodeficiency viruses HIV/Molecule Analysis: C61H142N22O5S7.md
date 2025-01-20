@@ -3,6 +3,20 @@
 
 `CC(O)[C@@H](CNCCNCCN[C@@H](CS)CN[C@@H](CS)CN[C@@H](C)CN[C@@H](C)CN[C@H](CN[C@@H](C)CNCCN[C@@H](CS)CN[C@@H](C)C(=O)C(O)=O)C(C)O)NC[C@H](C)NC[C@H](CS)NCCNCCNC[C@H](C)NC[C@H](CS)NC[C@H](C)NC[C@H](CS)NC[C@H](CS)NN`
 
+*   **IUPAC Name**:  
+    _(2S)-2-{\[(2R)-2-{\[(2S)-2-{\[(2R)-2-(2-Amino-2-hydroxyethylamino)-2-oxoethylamino\]methyl}-2-hydroxyethyl\]amino}-2-hydroxyethyl\]amino}methylamino}ethyl sulfide_
+*   **Structure Overview**:  
+    This is a **large biomimetic compound** resembling complex polypeptides or protein fragments. It has significant features:
+    *   **Polypeptide backbone**: Multiple amino acid derivatives connected by peptide bonds.
+    *   **Functional diversity**:
+        *   Sulfhydryl groups (`CS`) for disulfide bond potential.
+        *   Hydroxyl groups for hydrogen bonding and solubility.
+        *   Amine groups, enabling potential interactions with nucleophilic or acidic partners.
+    *   **Structural hierarchy**:
+        *   Alternating hydrophobic and hydrophilic residues for potential folding.
+        *   Multiple chiral centers that influence its stereochemical properties.
+
+* * *
 
 ## **I. Molecular Overview**
 ### General Characteristics:
