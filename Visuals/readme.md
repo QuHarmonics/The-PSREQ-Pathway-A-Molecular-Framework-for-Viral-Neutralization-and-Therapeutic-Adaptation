@@ -14,7 +14,7 @@ This directory contains visual assets that illustrate the concepts, mechanisms, 
 ---
 
 ### 2. **PSREQ Motif with Conserved and Functional Highlights**
-![PSREQ Motif](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Visuals/PSREQ Motif with Conserved and Functional Highlights.png)
+![PSREQ Motif](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Visuals/PSREQ_Motif_with_Conserved_and_Functional_Highlights.png)
 - **Description**: Highlights conserved regions of the PSREQ peptide and their functional roles in viral neutralization, such as glycoprotein binding and ionic stabilization.
 - **Purpose**: To show the modularity of the PSREQ design and its ability to target conserved viral mechanisms across multiple pathogens.
 
