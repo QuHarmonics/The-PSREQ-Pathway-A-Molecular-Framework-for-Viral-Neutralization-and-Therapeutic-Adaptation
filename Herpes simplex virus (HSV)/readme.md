@@ -1,7 +1,3 @@
-Here’s a refined and streamlined rewrite for the entry point into the **HSV section** of the PSREQ Pathway, focusing on clarity, centralization, and contextualization while avoiding redundancy.
-
----
-
 # **The PSREQ Pathway for HSV Neutralization and Therapeutic Adaptation**
 
 ### **Introduction**
