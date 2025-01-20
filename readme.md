@@ -37,16 +37,16 @@ The PSREQ framework has been developed to address the limitations of current ant
 ## The PSREQ Pathway's Design Principles  
 
 ### **1. Targeted Molecular Binding**  
-  At the core of the PSREQ Pathway lies a peptide-based therapeutic design that prioritizes specificity and adaptability. The peptides are engineered to recognize conserved domains on viral proteins critical for processes such as glycoprotein-mediated host entry, DNA replication, and structural assembly. Their design incorporates:  
-  - **Proline residues**, which confer structural flexibility, allowing the peptide to adapt to diverse viral targets.  
-  - **Serine and glycine residues**, which promote hydrogen bonding and stabilize peptide-protein interactions.  
+At the core of the PSREQ Pathway lies a peptide-based therapeutic design that prioritizes specificity and adaptability. The peptides are engineered to recognize conserved domains on viral proteins critical for processes such as glycoprotein-mediated host entry, DNA replication, and structural assembly. Their design incorporates:  
+- **Proline residues**, which confer structural flexibility, allowing the peptide to adapt to diverse viral targets.  
+- **Serine and glycine residues**, which promote hydrogen bonding and stabilize peptide-protein interactions.  
 
 By exploiting these conserved regions, the PSREQ peptides effectively neutralize the virus at multiple stages of its lifecycle.  
 
 ### **2. Ionic Stabilization**  
-  The therapeutic efficacy of the PSREQ system is significantly enhanced by the integration of zinc (Zn²⁺) and magnesium (Mg²⁺) ions.  
-  - **Zn²⁺ ions** bind to critical active sites, anchoring the PSREQ peptides to viral targets and increasing interaction durability.  
-  - **Mg²⁺ ions** buffer kinetic fluctuations, ensuring the peptides maintain structural integrity and functionality under dynamic biological conditions.  
+The therapeutic efficacy of the PSREQ system is significantly enhanced by the integration of zinc (Zn²⁺) and magnesium (Mg²⁺) ions.  
+- **Zn²⁺ ions** bind to critical active sites, anchoring the PSREQ peptides to viral targets and increasing interaction durability.  
+- **Mg²⁺ ions** buffer kinetic fluctuations, ensuring the peptides maintain structural integrity and functionality under dynamic biological conditions.  
 
 This ionic stabilization enables the PSREQ system to function effectively in various biological environments, ensuring consistent therapeutic outcomes.
 
