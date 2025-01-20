@@ -97,9 +97,9 @@ This structured approach ensures a professional and clear presentation, linking 
 #### **1\. Molecular Binding Stability (MBS)**
 
 *   **Formula**: $$Eb\=kb⋅q1q2r+HE\_b = k\_b \\cdot \\frac{q\_1 q\_2}{r} + HEb​\=kb​⋅rq1​q2​​+H$$
-    *  $$ EbE\_bEb​: Binding energy.$$
+    *   EbE\_bEb​: Binding energy.
     *   kbk\_bkb​: Binding constant.
-    *   q1,q2q\_1, q\_2q1​,q2​: Charges of interacting molecules.
+    *   $$q1,q2q\_1, q\_2q1​,q2​$$: Charges of interacting molecules.
     *   rrr: Distance between charges.
     *   HHH: Harmonic buffer for energy fluctuations.
 *   **Purpose**: Calculates the stability of molecular binding under environmental fluctuations.
@@ -108,8 +108,8 @@ This structured approach ensures a professional and clear presentation, linking 
 
 #### **2\. Ionic Coordination Ratio (ICR)**
 
-*   **Formula**: Rion\=\[Zn2+\]\[Mg2+\]R\_{ion} = \\frac{\[Zn^{2+}\]}{\[Mg^{2+}\]}Rion​\=\[Mg2+\]\[Zn2+\]​
-    *   RionR\_{ion}Rion​: Ratio of zinc to magnesium ions.
+*   **Formula**: $$Rion\=\[Zn2+\]\[Mg2+\]R\_{ion} = \\frac{\[Zn^{2+}\]}{\[Mg^{2+}\]}Rion​\=\[Mg2+\]\[Zn2+\]​$$
+    *  $$ RionR\_{ion}Rion$$​: Ratio of zinc to magnesium ions.
     *   \[Zn2+\]\[Zn^{2+}\]\[Zn2+\]: Concentration of zinc ions.
     *   \[Mg2+\]\[Mg^{2+}\]\[Mg2+\]: Concentration of magnesium ions.
 *   **Purpose**: Optimizes the balance of stabilizing ions in molecular systems.
