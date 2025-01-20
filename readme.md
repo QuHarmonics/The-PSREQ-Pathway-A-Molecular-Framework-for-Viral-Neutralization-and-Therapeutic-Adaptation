@@ -56,6 +56,10 @@ The PSREQ Pathway is not only a response to the urgent need for effective viral 
 
 The following diagram illustrates the lifecycle disruptions caused by the PSREQ pathway, detailing how it interferes with various stages of the HSV lifecycle.
 
+# Lifecycle Disruptions Caused by the PSREQ Pathway
+
+The following diagram illustrates the lifecycle disruptions caused by the PSREQ pathway, detailing how it interferes with various stages of the HSV lifecycle.
+
 ```mermaid
 graph TD
     A[Viral Entry] -->|PSREQ peptide binds to glycoproteins, blocking receptor interactions| B[Replication]
@@ -63,7 +67,7 @@ graph TD
     C -->|Targets conserved mechanisms, preventing latency establishment| D[Reactivation]
     D -->|Destabilizes epigenetic changes, minimizing recurrence| E[Virion Assembly]
     E -->|Disrupts capsid assembly and viral particle production| F[Inhibition of Viral Spread]
-
+```
 
 ---
 # Tools & Formulas 
