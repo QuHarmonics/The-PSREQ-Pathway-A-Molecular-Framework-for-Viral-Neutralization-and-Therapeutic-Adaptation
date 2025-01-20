@@ -152,7 +152,7 @@ The PSREQ Pathway is not only a response to the urgent need for effective viral 
 #### **7. Structural Disruption Potential (SDP)**
 
 **Formula**:  
-# $$\[SDP = \frac{\sum_{i} F_i \cdot r_i}{\sum_{j} E_j}\]$$ 
+# $$\SDP = \frac{\sum_{i} F_i \cdot r_i}{\sum_{j} E_j}\$$ 
 - \(SDP\): Disruption potential.  
 - \(F_i\): Force on viral structure \(i\).  
 - \(r_i\): Distance for force application.  
