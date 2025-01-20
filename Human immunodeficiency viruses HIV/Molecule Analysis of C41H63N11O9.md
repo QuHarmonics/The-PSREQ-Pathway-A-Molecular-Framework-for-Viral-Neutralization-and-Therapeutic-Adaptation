@@ -1,4 +1,4 @@
-### Detailed Write-Up: Molecule Analysis of **C41H63N11O9**
+Molecule Analysis of C41H63N11O9
 
 #### **Molecular Overview**
 
