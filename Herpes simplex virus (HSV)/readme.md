@@ -154,7 +154,7 @@ This dynamic framework underscores how viral and host processes evolve over time
 This revised structure avoids repetition, clearly contextualizes the molecules, and ties them directly to their therapeutic roles in HSV management while maintaining links to the broader PSREQ framework.
 
 ---
-### **Additional Molecular Context**
+# **Expanding the Molecular Framework: Insights into the PSREQ Pathway's Key Components and Synergistic Mechanisms"**
 
 The PSREQ Pathway's success in targeting HSV relies on the meticulous design of its three key molecular components—**The Adapter**, **The Stabilizer**, and **The Disruptor**—each engineered to address specific challenges in the viral lifecycle. Below, we explore the deeper rationale behind their design and how they interact with viral and host systems:
 
