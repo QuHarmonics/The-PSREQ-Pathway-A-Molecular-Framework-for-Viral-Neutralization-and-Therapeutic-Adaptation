@@ -83,7 +83,6 @@ The PSREQ Pathway is not only a response to the urgent need for effective viral 
 
 
 
-### **Sample Additions**
 #### **Centralized Molecular Summary Table**
 
 | Molecule Name | Molecular Formula          | SMILES Representation                                                                                                 | Role          | Target Mechanism                                                                                  | Therapeutic Use          |
