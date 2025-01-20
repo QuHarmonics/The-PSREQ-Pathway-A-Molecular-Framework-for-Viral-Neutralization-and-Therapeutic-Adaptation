@@ -1,6 +1,3 @@
-Here is the updated introduction with a Table of Contents linking to the relevant sections:
-
----
 
 # The PSREQ Pathway: A Molecular Framework for Viral Neutralization and Therapeutic Innovation  
 
@@ -10,7 +7,7 @@ The PSREQ framework has been developed to address the limitations of current ant
 
 ---
 
-## Table of Contents
+## Table of Contents (UNDER CONSTRUCTION)
 
 1. [Introduction](#introduction)  
 2. [Understanding Viral Neutralization](#understanding-viral-neutralization)  
