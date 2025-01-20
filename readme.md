@@ -24,12 +24,6 @@ The PSREQ framework has been developed to address the limitations of current ant
 
 ## The PSREQ Pathway's Design Principles  
 
-Here is the continuation of the structured introduction:
-
----
-
-## The PSREQ Pathway's Design Principles  
-
 ### **1. Targeted Molecular Binding**  
 At the core of the PSREQ Pathway lies a peptide-based therapeutic design that prioritizes specificity and adaptability. The peptides are engineered to recognize conserved domains on viral proteins critical for processes such as glycoprotein-mediated host entry, DNA replication, and structural assembly. Their design incorporates:  
 - **Proline residues**, which confer structural flexibility, allowing the peptide to adapt to diverse viral targets.  
