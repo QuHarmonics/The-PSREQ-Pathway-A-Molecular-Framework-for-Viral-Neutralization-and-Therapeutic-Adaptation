@@ -52,6 +52,12 @@ The PSREQ Pathway is not only a response to the urgent need for effective viral 
 | Stabilizer    | C\(_{41}\)H\(_{63}\)N\(_{11}\)O\(_{9}\)                   | `CC(C)[C@H](NC(=O)[C@H](C)NC(=O)[C@H](CCCCN)NC(=O)[C@H]1CCCN1C(=O)[C@H](CC1=CNC2=CC=CC=C12)NC(=O)[C@H](C)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](C)N)C=O` | Stability     | Enhances molecular interactions via zinc and magnesium stabilization.                           | HSV, HIV                |
 | Disruptor     | C\(_{61}\)H\(_{142}\)N\(_{22}\)O\(_{5}\)S\(_{7}\)        | `CC(O)[C@@H](CNCCNCCN[C@@H](CS)CN[C@@H](CS)CN[C@@H](C)CN[C@@H](C)CN[C@H](CN[C@@H](C)CNCCN[C@@H](CS)CN[C@@H](C)C(=O)C(O)=O)C(C)O)NC[C@H](C)NC[C@H](CS)NCCNCCNC[C@H](C)NC[C@H](CS)NC[C@H](C)NC[C@H](CS)NC[C@H](CS)NN` | Disruption    | Breaks viral disulfide bonds, halting replication and assembly.                                  | HSV, HIV, Oncology       |
 
+graph TD
+    A[Viral Entry] -->|PSREQ peptide binds to glycoproteins, blocking receptor interactions| B[Replication]
+    B -->|Inhibits HSV DNA polymerase, halting genome replication| C[Latency]
+    C -->|Targets conserved mechanisms, preventing latency establishment| D[Reactivation]
+    D -->|Destabilizes epigenetic changes, minimizing recurrence| E[Virion Assembly]
+    E -->|Disrupts capsid assembly and viral particle production| F[Inhibition of Viral Spread]
 
 
 ---
