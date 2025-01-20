@@ -1,9 +1,5 @@
 
-Here's how the introduction could be refined and adapted to the HSV section with all the molecular data incorporated:
-
-* * *
-
-**The PSREQ Pathway: A Molecular Framework for Viral Neutralization and Therapeutic Adaptation**
+# The PSREQ Pathway: A Molecular Framework for Viral Neutralization and Therapeutic Adaptation 
 
 ### Introduction
 
