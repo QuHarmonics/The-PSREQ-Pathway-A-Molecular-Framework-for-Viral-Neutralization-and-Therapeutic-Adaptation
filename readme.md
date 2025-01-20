@@ -4,13 +4,14 @@
 # Table of Contents - In Progress
 
 - [Overview](#overview)
-  - [Introduction](#introduction)
+  - [Introduction - The PSREQ Pathway](#introduction)
   - [Lifecycle Disruptions](#lifecycle-disruptions)
+  - [Expanded Therapeutic Potential](#comparison-with-existing-therapies)
   - [Comparison with Existing Therapies](#comparison-with-existing-therapies)
 - [Molecules](#molecules)
-  - [Molecule 1: The Adapter](#molecule-1-the-adapter)
-  - [Molecule 2: The Stabilizer](#molecule-2-the-stabilizer)
-  - [Molecule 3: The Disruptor](#molecule-3-the-disruptor)
+  - [Molecule 1: The Adapter]([#molecule-1-the-adapter](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/PSREQ%20Adapter-1-Molecule.md))
+  - [Molecule 2: The Stabilizer]([#molecule-2-the-stabilizer](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/PSREQ%20Disruptor-2-Molecule.md))
+  - [Molecule 3: The Disruptor]([#molecule-3-the-disruptor](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/PSREQ%20Disruptor-2-Molecule.md))
 - [Applications](#applications)
   - [Herpes Simplex Virus (HSV)](#herpes-simplex-virus-hsv)
     - [Readme](#readme)
