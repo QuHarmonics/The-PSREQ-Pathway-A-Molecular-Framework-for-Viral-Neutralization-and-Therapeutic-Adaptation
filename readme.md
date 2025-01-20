@@ -4,47 +4,31 @@
 # Table of Contents
 
 ## Overview
-- [Introduction](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation#introduction)
-- [Lifecycle Disruptions](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation#lifecycle-disruptions-caused-by-the-psreq-pathway)
-- [Comparison with Existing Therapies](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation#comparison-with-existing-therapies)
+- [Introduction](#introduction)
+- [Lifecycle Disruptions](#lifecycle-disruptions)
+- [Comparison with Existing Therapies](#comparison-with-existing-therapies)
 
----
+## Molecules
+- [Molecule 1: The Adapter](#molecule-1-the-adapter)
+- [Molecule 2: The Stabilizer](#molecule-2-the-stabilizer)
+- [Molecule 3: The Disruptor](#molecule-3-the-disruptor)
 
-## Marvin Files
-- [Molecule 1](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Marvin_Files/Molecule1.mrv)
-- [Molecule 2](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Marvin_Files/Molecule2.mrv)
-- [Molecule 3](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Marvin_Files/Molecule3.mrv)
-
----
-
-## Herpes Simplex Virus (HSV)
-- [Readme](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Herpes%20simplex%20virus%20(HSV)/readme.md)
-- [Lifecycle Disruptions](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Herpes%20simplex%20virus%20(HSV)/Lifecycle_Disruptions.md)
-
----
-
-## Human Immunodeficiency Virus (HIV)
-- [Readme](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Human%20immunodeficiency%20viruses%20HIV/readme.md)
-- [Molecular Framework](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Human%20immunodeficiency%20viruses%20HIV/Molecular_Framework.md)
-
----
+## Applications in Viral Management
+- **Herpes Simplex Virus (HSV)**
+  - [HSV Readme](#hsv-readme)
+  - [HSV Lifecycle Disruptions](#hsv-lifecycle-disruptions)
+- **Human Immunodeficiency Virus (HIV)**
+  - [HIV Readme](#hiv-readme)
+  - [HIV Molecular Framework](#hiv-molecular-framework)
 
 ## Tools and Frameworks
-- [Expanded Therapeutic Potential](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation#expanded-therapeutic-potential)
-- [Potential Risks or Challenges](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation#potential-risks-or-challenges)
+- [Expanded Therapeutic Potential](#expanded-therapeutic-potential)
+- [Potential Risks or Challenges](#potential-risks-or-challenges)
 
----
+## Supporting Visuals
+- [PSREQ Pathway Visualization](#psreq-pathway-visualization)
+- [Lifecycle Flowchart](#lifecycle-flowchart)
 
-## Supporting Files
-- [PSREQ Pathway Visualization](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Visualization/PSREQ_Pathway_Diagram.png)
-- [Lifecycle Flowchart](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Visualization/Lifecycle_Flowchart.png)
-
----
-
-## Future Applications
-- [Synthetic Biology](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation#synthetic-biology-applications)
-- [Regenerative Medicine](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation#regenerative-medicine)
-- [Oncology and Autoimmune Diseases](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation#oncology)
 
 
 # The PSREQ Pathway: A Molecular Framework for Viral Neutralization and Therapeutic Innovation  
