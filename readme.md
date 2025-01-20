@@ -5,38 +5,6 @@ The PSREQ Pathway represents a novel therapeutic framework designed to address s
 
 The PSREQ framework has been developed to address the limitations of current antiviral and therapeutic strategies. Conventional approaches often rely on therapies that target singular viral mechanisms or transient stages of infection, leaving room for viral resistance, incomplete suppression, and persistent latency. In contrast, the PSREQ Pathway integrates three complementary mechanisms—targeted molecular binding, ionic stabilization, and systemic disruption of viral replication and assembly processes. This multifaceted approach ensures adaptability, durability, and precision in addressing viral pathogenesis while minimizing the risk of resistance.
 
----
-
-## Table of Contents (UNDER CONSTRUCTION)
-
-1. [Introduction](#introduction)  
-2. [Understanding Viral Neutralization](#understanding-viral-neutralization)  
-3. [The PSREQ Pathway](#the-psreq-pathway)  
-   - [Peptide Structure](#peptide-structure)  
-   - [Stabilization Mechanisms](#stabilization-mechanisms)  
-   - [Targeted Binding and Disruption](#targeted-binding-and-disruption)  
-4. [Therapeutic Applications](#therapeutic-applications)  
-   - [HSV Management](#hsv-management)  
-   - [HIV Neutralization](#hiv-neutralization)  
-   - [Broader Medical Applications](#broader-medical-applications)  
-5. [Chemical Composition and Molecular Analysis](#chemical-composition-and-molecular-analysis)  
-   - [Molecule 1](#molecule-1)  
-   - [Molecule 2](#molecule-2)  
-   - [Molecule 3](#molecule-3)  
-6. [Tools and Formulas](#tools-and-formulas)  
-   - [Molecular Binding Stability (MBS)](#molecular-binding-stability-mbs)  
-   - [Ionic Coordination Ratio (ICR)](#ionic-coordination-ratio-icr)  
-   - [Recursive Harmonic Alignment (RHA)](#recursive-harmonic-alignment-rha)  
-   - [Proline-Glycine Flexibility Index (PGFI)](#proline-glycine-flexibility-index-pgfi)  
-   - [Viral Inhibition Efficiency (VIE)](#viral-inhibition-efficiency-vie)  
-   - [Energy Buffering Factor (EBF)](#energy-buffering-factor-ebf)  
-   - [Structural Disruption Potential (SDP)](#structural-disruption-potential-sdp)  
-   - [Molecular Compression Efficiency (MCE)](#molecular-compression-efficiency-mce)  
-7. [Future Directions](#future-directions)  
-8. [Conclusion](#conclusion)
-
-
----
 
 ## The PSREQ Pathway's Design Principles  
 
