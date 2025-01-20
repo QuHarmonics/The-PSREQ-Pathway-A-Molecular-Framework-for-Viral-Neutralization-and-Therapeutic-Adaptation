@@ -97,7 +97,7 @@ The PSREQ Pathway offers a transformative solution for HSV therapy by integratin
 By bridging molecular adaptability and therapeutic stability, the PSREQ Pathway sets a new benchmark in the field of molecular medicine.
 
 ---
-### **Core Pattern of Change Over Time: Viral and Host Dynamics**
+# **Core Pattern of Change Over Time: Viral and Host Dynamics**
 
 #### **Introduction**
 The lifecycle of viruses such as Herpes Simplex Virus (HSV) involves a dynamic interplay of viral strategies and host responses, driven by biochemical and molecular processes. This pattern, representing change over time, highlights critical stages in the viral lifecycle and its manipulation of the host environment, underpinned by molecular catalysts such as enzymes, ions, and conserved viral mechanisms. By understanding these interactions, we can identify new therapeutic strategies to disrupt this cycle and restore host stability.
