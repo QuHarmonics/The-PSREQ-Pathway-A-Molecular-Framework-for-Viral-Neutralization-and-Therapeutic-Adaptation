@@ -174,7 +174,7 @@ The PSREQ Pathway is not only a response to the urgent need for effective viral 
 #### **10. Regeneration Potential (RP)**
 
 **Formula**:  
-# $$\RP = \text{Proteome} - \text{Cellular Waste}\$$  
+# $$RP = \text{Proteome} - \text{Cellular Waste}\$$  
 - \(RP\): Regenerative capacity.  
 - \(\text{Proteome}\): Functional protein output.  
 - \(\text{Cellular Waste}\): Accumulated byproducts of metabolism.  
