@@ -139,10 +139,10 @@ The PSREQ Pathway is not only a response to the urgent need for effective viral 
 **Formula**:  
 # $$EBF = \frac{E_{\text{stored}}}{E_{\text{demand}} + E_{\text{loss}}}$$
 
-- **\(EBF\):** Energy Buffering Factor.  
-- **\(E_{\text{stored}}\):** Energy available in the system.  
-- **\(E_{\text{demand}}\):** Energy required to sustain operations.  
-- **\(E_{\text{loss}}\):** Energy lost during system transitions.   
+- **(EBF):** Energy Buffering Factor.  
+- **(E_{\text{stored}}):** Energy available in the system.  
+- **(E_{\text{demand}}):** Energy required to sustain operations.  
+- **(E_{\text{loss}}):** Energy lost during system transitions.  
 
   
 
