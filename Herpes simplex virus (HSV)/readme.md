@@ -2,9 +2,9 @@
 
 ### **Introduction**
 
-Herpes simplex virus (HSV) presents a significant medical challenge due to its ability to establish lifelong latency, evade immune detection, and periodically reactivate, leading to recurrent outbreaks. Affecting millions globally, HSV-1 and HSV-2 are primary drivers of oral and genital herpes. Existing therapies focus on symptom management and reduction of viral shedding but fall short of offering a definitive cure or complete prevention of reactivation.
+Herpes simplex virus (HSV) presents a significant medical challenge due to its unique ability to establish lifelong latency within host neurons, evade immune detection, and periodically reactivate, leading to recurrent outbreaks. Unlike many other viruses that the immune system can clear, HSV persists in a dormant state, making complete eradication difficult. Existing therapies primarily focus on managing symptoms and reducing viral shedding but do not offer a definitive cure or fully prevent reactivation.
 
-The **PSREQ Pathway** introduces an innovative solution by leveraging peptide engineering and ionic stabilization to disrupt HSV's lifecycle. This approach not only neutralizes active infections but also addresses latent reservoirs, providing a comprehensive strategy for viral management. By combining adaptability, stability, and precision, the PSREQ framework aims to revolutionize HSV therapy and establish a foundation for broader antiviral applications.
+The PSREQ Pathway introduces an innovative solution by leveraging peptide engineering and ionic stabilization to disrupt HSV's lifecycle at multiple stages. This approach not only neutralizes active infections but also targets latent reservoirs, providing a comprehensive strategy for viral management. By combining adaptability, stability, and precision, the PSREQ framework aims to revolutionize HSV therapy and establish a foundation for broader antiviral applications.
 
 ---
 
