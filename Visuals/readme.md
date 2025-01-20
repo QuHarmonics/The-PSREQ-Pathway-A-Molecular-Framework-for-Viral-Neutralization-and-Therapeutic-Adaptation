@@ -31,7 +31,14 @@ This directory contains visual assets that illustrate the concepts, mechanisms, 
 ![Lifecycle Disruption Flowchart](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Visuals/Screenshot_2025-01-19_084046.png)
 - **Description**: A flowchart depicting how the PSREQ Pathway disrupts the viral lifecycle, targeting entry, replication, and assembly phases.
 - **Purpose**: To provide a step-by-step overview of how the pathway neutralizes viral threats at multiple stages.
-
+```mermaid
+graph TD
+    A[Viral Entry] -->|PSREQ peptide binds to glycoproteins, blocking receptor interactions| B[Replication]
+    B -->|Inhibits HSV DNA polymerase, halting genome replication| C[Latency]
+    C -->|Targets conserved mechanisms, preventing latency establishment| D[Reactivation]
+    D -->|Destabilizes epigenetic changes, minimizing recurrence| E[Virion Assembly]
+    E -->|Disrupts capsid assembly and viral particle production| F[Inhibition of Viral Spread]
+```
 ---
 
 ### 5. **Wireframe Models of Key Molecules**
