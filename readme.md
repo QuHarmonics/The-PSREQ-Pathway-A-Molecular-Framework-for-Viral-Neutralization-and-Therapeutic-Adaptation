@@ -61,3 +61,95 @@ The PSREQ Pathway is not only a response to the urgent need for effective viral 
 --- 
 
 This structured approach ensures a professional and clear presentation, linking the introduction to the detailed sections in your repository. Let me know if further refinements or expansions are needed!
+
+
+---
+# Tools & Formulas 
+
+### **Formula Cheat Sheet**
+
+#### **1\. Molecular Binding Stability (MBS)**
+
+*   **Formula**: Eb\=kb⋅q1q2r+HE\_b = k\_b \\cdot \\frac{q\_1 q\_2}{r} + HEb​\=kb​⋅rq1​q2​​+H
+    *   EbE\_bEb​: Binding energy.
+    *   kbk\_bkb​: Binding constant.
+    *   q1,q2q\_1, q\_2q1​,q2​: Charges of interacting molecules.
+    *   rrr: Distance between charges.
+    *   HHH: Harmonic buffer for energy fluctuations.
+*   **Purpose**: Calculates the stability of molecular binding under environmental fluctuations.
+
+* * *
+
+#### **2\. Ionic Coordination Ratio (ICR)**
+
+*   **Formula**: Rion\=\[Zn2+\]\[Mg2+\]R\_{ion} = \\frac{\[Zn^{2+}\]}{\[Mg^{2+}\]}Rion​\=\[Mg2+\]\[Zn2+\]​
+    *   RionR\_{ion}Rion​: Ratio of zinc to magnesium ions.
+    *   \[Zn2+\]\[Zn^{2+}\]\[Zn2+\]: Concentration of zinc ions.
+    *   \[Mg2+\]\[Mg^{2+}\]\[Mg2+\]: Concentration of magnesium ions.
+*   **Purpose**: Optimizes the balance of stabilizing ions in molecular systems.
+
+* * *
+
+#### **3\. Recursive Harmonic Alignment (RHA)**
+
+*   **Formula**: H\=1n∑i\=1n(Ei−EtEt)2H = \\frac{1}{n} \\sum\_{i=1}^{n} \\left( \\frac{E\_i - E\_t}{E\_t} \\right)^2H\=n1​∑i\=1n​(Et​Ei​−Et​​)2
+    *   HHH: Harmonic alignment metric.
+    *   EiE\_iEi​: Energy at iteration iii.
+    *   EtE\_tEt​: Target energy.
+    *   nnn: Number of iterations.
+*   **Purpose**: Aligns kinetic and thermodynamic properties to achieve stable molecular behavior.
+
+* * *
+
+#### **4\. Proline-Glycine Flexibility Index (PGFI)**
+
+*   **Formula**: F\=\[Pro\]\[Gly\]+\[Pro\]F = \\frac{\[Pro\]}{\[Gly\] + \[Pro\]}F\=\[Gly\]+\[Pro\]\[Pro\]​
+    *   FFF: Flexibility index.
+    *   \[Pro\]\[Pro\]\[Pro\]: Concentration of proline residues.
+    *   \[Gly\]\[Gly\]\[Gly\]: Concentration of glycine residues.
+*   **Purpose**: Measures structural flexibility critical for dynamic binding.
+
+* * *
+
+#### **5\. Viral Inhibition Efficiency (VIE)**
+
+*   **Formula**: VIE\=KdIC50VIE = \\frac{K\_d}{IC\_{50}}VIE\=IC50​Kd​​
+    *   VIEVIEVIE: Efficiency of viral inhibition.
+    *   KdK\_dKd​: Binding dissociation constant.
+    *   IC50IC\_{50}IC50​: Half-maximal inhibitory concentration.
+*   **Purpose**: Quantifies the effectiveness of a molecule in inhibiting viral processes.
+
+* * *
+
+#### **6\. Energy Buffering Factor (EBF)**
+
+*   **Formula**: Ebuffer\=Mg2+⋅ΔHkineticE\_{buffer} = Mg^{2+} \\cdot \\Delta H\_{kinetic}Ebuffer​\=Mg2+⋅ΔHkinetic​
+    *   EbufferE\_{buffer}Ebuffer​: Energy stabilization factor.
+    *   Mg2+Mg^{2+}Mg2+: Magnesium ion concentration.
+    *   ΔHkinetic\\Delta H\_{kinetic}ΔHkinetic​: Kinetic energy fluctuation.
+*   **Purpose**: Ensures kinetic stability during molecular interaction.
+
+* * *
+
+#### **7\. Structural Disruption Potential (SDP)**
+
+*   **Formula**: SDP\=∑iFi⋅ri∑jEjSDP = \\frac{\\sum\_{i} F\_i \\cdot r\_i}{\\sum\_{j} E\_j}SDP\=∑j​Ej​∑i​Fi​⋅ri​​
+    *   SDPSDPSDP: Disruption potential.
+    *   FiF\_iFi​: Force on viral structure iii.
+    *   rir\_iri​: Distance for force application.
+    *   EjE\_jEj​: Total energy of viral components.
+*   **Purpose**: Predicts the molecule’s ability to disrupt viral assembly or replication.
+
+* * *
+
+#### **8\. Molecular Compression Efficiency (MCE)**
+
+*   **Formula**: MCE\=EtotalEcompressedMCE = \\frac{E\_{total}}{E\_{compressed}}MCE\=Ecompressed​Etotal​​
+    *   MCEMCEMCE: Efficiency of molecular energy compression.
+    *   EtotalE\_{total}Etotal​: Total system energy.
+    *   EcompressedE\_{compressed}Ecompressed​: Compressed energy after recursive optimization.
+*   **Purpose**: Evaluates the system’s ability to achieve harmonic energy alignment.
+
+* * *
+
+This cheat sheet provides a focused reference for essential formulas tailored to molecular interactions, stabilization, and efficiency. Let me know if any formula needs additional context or modification!
