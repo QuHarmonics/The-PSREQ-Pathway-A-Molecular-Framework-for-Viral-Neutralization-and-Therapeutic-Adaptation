@@ -1,5 +1,9 @@
 # **Molecule Analysis: C61H142N22O5S7**
 
+
+CC(O)[C@@H](CNCCNCCN[C@@H](CS)CN[C@@H](CS)CN[C@@H](C)CN[C@@H](C)CN[C@H](CN[C@@H](C)CNCCN[C@@H](CS)CN[C@@H](C)C(=O)C(O)=O)C(C)O)NC[C@H](C)NC[C@H](CS)NCCNCCNC[C@H](C)NC[C@H](CS)NC[C@H](C)NC[C@H](CS)NC[C@H](CS)NN
+
+
 ## **I. Molecular Overview**
 ### General Characteristics:
 - **Molecular Formula**: C61H142N22O5S7
