@@ -65,7 +65,9 @@ graph TD
     D -->|Destabilizes epigenetic changes, minimizing recurrence| E[Virion Assembly]
     E -->|Disrupts capsid assembly and viral particle production| F[Inhibition of Viral Spread]
 ```
-### **Comparison with Existing Therapies**
+
+
+# **Comparison with Existing Therapies**
 
 #### **Introduction**
 
