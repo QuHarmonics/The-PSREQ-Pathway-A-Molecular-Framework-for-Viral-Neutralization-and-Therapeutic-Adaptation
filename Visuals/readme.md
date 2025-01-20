@@ -28,7 +28,6 @@ This directory contains visual assets that illustrate the concepts, mechanisms, 
 ---
 
 ### 4. **Lifecycle Disruption Flowchart**
-![Lifecycle Disruption Flowchart](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Visuals/Screenshot_2025-01-19_084046.png)
 - **Description**: A flowchart depicting how the PSREQ Pathway disrupts the viral lifecycle, targeting entry, replication, and assembly phases.
 - **Purpose**: To provide a step-by-step overview of how the pathway neutralizes viral threats at multiple stages.
 ```mermaid
