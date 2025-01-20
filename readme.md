@@ -3,31 +3,27 @@
 
 # Table of Contents
 
-## Overview
-- [Introduction](#introduction)
-- [Lifecycle Disruptions](#lifecycle-disruptions)
-- [Comparison with Existing Therapies](#comparison-with-existing-therapies)
-
-## Molecules
-- [Molecule 1: The Adapter](#molecule-1-the-adapter)
-- [Molecule 2: The Stabilizer](#molecule-2-the-stabilizer)
-- [Molecule 3: The Disruptor](#molecule-3-the-disruptor)
-
-## Applications in Viral Management
-- **Herpes Simplex Virus (HSV)**
-  - [HSV Readme](#hsv-readme)
-  - [HSV Lifecycle Disruptions](#hsv-lifecycle-disruptions)
-- **Human Immunodeficiency Virus (HIV)**
-  - [HIV Readme](#hiv-readme)
-  - [HIV Molecular Framework](#hiv-molecular-framework)
-
-## Tools and Frameworks
-- [Expanded Therapeutic Potential](#expanded-therapeutic-potential)
-- [Potential Risks or Challenges](#potential-risks-or-challenges)
-
-## Supporting Visuals
-- [PSREQ Pathway Visualization](#psreq-pathway-visualization)
-- [Lifecycle Flowchart](#lifecycle-flowchart)
+- [Overview](#overview)
+  - [Introduction](#introduction)
+  - [Lifecycle Disruptions](#lifecycle-disruptions)
+  - [Comparison with Existing Therapies](#comparison-with-existing-therapies)
+- [Molecules](#molecules)
+  - [Molecule 1: The Adapter](#molecule-1-the-adapter)
+  - [Molecule 2: The Stabilizer](#molecule-2-the-stabilizer)
+  - [Molecule 3: The Disruptor](#molecule-3-the-disruptor)
+- [Applications](#applications)
+  - [Herpes Simplex Virus (HSV)](#herpes-simplex-virus-hsv)
+    - [Readme](#readme)
+    - [Lifecycle Disruptions](#lifecycle-disruptions)
+  - [Human Immunodeficiency Virus (HIV)](#human-immunodeficiency-virus-hiv)
+    - [Readme](#readme-1)
+    - [Molecular Framework](#molecular-framework)
+- [Tools and Frameworks](#tools-and-frameworks)
+  - [Expanded Therapeutic Potential](#expanded-therapeutic-potential)
+  - [Potential Risks or Challenges](#potential-risks-or-challenges)
+- [Supporting Files](#supporting-files)
+  - [PSREQ Pathway Visualization](#psreq-pathway-visualization)
+  - [Lifecycle Flowchart](#lifecycle-flowchart)
 
 
 
