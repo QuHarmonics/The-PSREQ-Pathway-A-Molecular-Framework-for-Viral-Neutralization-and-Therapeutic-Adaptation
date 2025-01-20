@@ -109,7 +109,7 @@ This structured approach ensures a professional and clear presentation, linking 
 #### **2\. Ionic Coordination Ratio (ICR)**
 
 *   **Formula**: $$Rion\=\[Zn2+\]\[Mg2+\]R\_{ion} = \\frac{\[Zn^{2+}\]}{\[Mg^{2+}\]}Rion​\=\[Mg2+\]\[Zn2+\]​$$
-    *  $$ RionR\_{ion}Rion$$​: Ratio of zinc to magnesium ions.
+    *   RionR\_{ion}Rion$$​: Ratio of zinc to magnesium ions.
     *   \[Zn2+\]\[Zn^{2+}\]\[Zn2+\]: Concentration of zinc ions.
     *   \[Mg2+\]\[Mg^{2+}\]\[Mg2+\]: Concentration of magnesium ions.
 *   **Purpose**: Optimizes the balance of stabilizing ions in molecular systems.
@@ -118,7 +118,7 @@ This structured approach ensures a professional and clear presentation, linking 
 
 #### **3\. Recursive Harmonic Alignment (RHA)**
 
-*   **Formula**: H\=1n∑i\=1n(Ei−EtEt)2H = \\frac{1}{n} \\sum\_{i=1}^{n} \\left( \\frac{E\_i - E\_t}{E\_t} \\right)^2H\=n1​∑i\=1n​(Et​Ei​−Et​​)2
+*   **Formula**: $$H\=1n∑i\=1n(Ei−EtEt)2H = \\frac{1}{n} \\sum\_{i=1}^{n} \\left( \\frac{E\_i - E\_t}{E\_t} \\right)^2H\=n1​∑i\=1n​(Et​Ei​−Et​​)2$$
     *   HHH: Harmonic alignment metric.
     *   EiE\_iEi​: Energy at iteration iii.
     *   EtE\_tEt​: Target energy.
@@ -129,7 +129,7 @@ This structured approach ensures a professional and clear presentation, linking 
 
 #### **4\. Proline-Glycine Flexibility Index (PGFI)**
 
-*   **Formula**: F\=\[Pro\]\[Gly\]+\[Pro\]F = \\frac{\[Pro\]}{\[Gly\] + \[Pro\]}F\=\[Gly\]+\[Pro\]\[Pro\]​
+*   **Formula**: $$F\=\[Pro\]\[Gly\]+\[Pro\]F = \\frac{\[Pro\]}{\[Gly\] + \[Pro\]}F\=\[Gly\]+\[Pro\]\[Pro\]​$$
     *   FFF: Flexibility index.
     *   \[Pro\]\[Pro\]\[Pro\]: Concentration of proline residues.
     *   \[Gly\]\[Gly\]\[Gly\]: Concentration of glycine residues.
@@ -139,7 +139,7 @@ This structured approach ensures a professional and clear presentation, linking 
 
 #### **5\. Viral Inhibition Efficiency (VIE)**
 
-*   **Formula**: VIE\=KdIC50VIE = \\frac{K\_d}{IC\_{50}}VIE\=IC50​Kd​​
+*   **Formula**: $$VIE\=KdIC50VIE = \\frac{K\_d}{IC\_{50}}VIE\=IC50​Kd​​$$
     *   VIEVIEVIE: Efficiency of viral inhibition.
     *   KdK\_dKd​: Binding dissociation constant.
     *   IC50IC\_{50}IC50​: Half-maximal inhibitory concentration.
@@ -149,7 +149,7 @@ This structured approach ensures a professional and clear presentation, linking 
 
 #### **6\. Energy Buffering Factor (EBF)**
 
-*   **Formula**: Ebuffer\=Mg2+⋅ΔHkineticE\_{buffer} = Mg^{2+} \\cdot \\Delta H\_{kinetic}Ebuffer​\=Mg2+⋅ΔHkinetic​
+*   **Formula**: $$Ebuffer\=Mg2+⋅ΔHkineticE\_{buffer} = Mg^{2+} \\cdot \\Delta H\_{kinetic}Ebuffer​\=Mg2+⋅ΔHkinetic​$$
     *   EbufferE\_{buffer}Ebuffer​: Energy stabilization factor.
     *   Mg2+Mg^{2+}Mg2+: Magnesium ion concentration.
     *   ΔHkinetic\\Delta H\_{kinetic}ΔHkinetic​: Kinetic energy fluctuation.
@@ -159,7 +159,7 @@ This structured approach ensures a professional and clear presentation, linking 
 
 #### **7\. Structural Disruption Potential (SDP)**
 
-*   **Formula**: SDP\=∑iFi⋅ri∑jEjSDP = \\frac{\\sum\_{i} F\_i \\cdot r\_i}{\\sum\_{j} E\_j}SDP\=∑j​Ej​∑i​Fi​⋅ri​​
+*   **Formula**: $$SDP\=∑iFi⋅ri∑jEjSDP = \\frac{\\sum\_{i} F\_i \\cdot r\_i}{\\sum\_{j} E\_j}SDP\=∑j​Ej​∑i​Fi​⋅ri​​$$
     *   SDPSDPSDP: Disruption potential.
     *   FiF\_iFi​: Force on viral structure iii.
     *   rir\_iri​: Distance for force application.
@@ -170,7 +170,7 @@ This structured approach ensures a professional and clear presentation, linking 
 
 #### **8\. Molecular Compression Efficiency (MCE)**
 
-*   **Formula**: MCE\=EtotalEcompressedMCE = \\frac{E\_{total}}{E\_{compressed}}MCE\=Ecompressed​Etotal​​
+*   **Formula**: $$MCE\=EtotalEcompressedMCE = \\frac{E\_{total}}{E\_{compressed}}MCE\=Ecompressed​Etotal​​$$
     *   MCEMCEMCE: Efficiency of molecular energy compression.
     *   EtotalE\_{total}Etotal​: Total system energy.
     *   EcompressedE\_{compressed}Ecompressed​: Compressed energy after recursive optimization.
