@@ -62,12 +62,14 @@ The PSREQ Pathway is not only a response to the urgent need for effective viral 
 #### **1. Molecular Binding Stability (MBS)**
 
 **Formula**:  
-# $$\[E_b = k_b \cdot \frac{q_1 q_2}{r} + H\]$$  
-- \(E_b\): Binding energy.  
-- \(k_b\): Binding constant.  
-- \(q_1, q_2\): Charges of interacting molecules.  
-- \(r\): Distance between charges.  
-- \(H\): Harmonic buffer for energy fluctuations.  
+# $$E_b = k_b \cdot \frac{q_1 q_2}{r} + H$$
+
+- **\(E_b\):** Binding energy.  
+- **\(k_b\):** Binding constant.  
+- **\(q_1, q_2\):** Charges of interacting molecules.  
+- **\(r\):** Distance between charges.  
+- **\(H\):** Harmonic buffer for energy fluctuations.  
+
 
 **Purpose**: Calculates the stability of molecular binding under environmental fluctuations.
 
@@ -76,10 +78,12 @@ The PSREQ Pathway is not only a response to the urgent need for effective viral 
 #### **2. Ionic Coordination Ratio (ICR)**
 
 **Formula**:  
-# $$\[R_{\text{ion}} = \frac{[Zn^{2+}]}{[Mg^{2+}]}\]$$  
-- \(R_{\text{ion}}\): Ratio of zinc to magnesium ions.  
-- \([Zn^{2+}]\): Concentration of zinc ions.  
-- \([Mg^{2+}]\): Concentration of magnesium ions.  
+# $$R_{\text{ion}} = \frac{[Zn^{2+}]}{[Mg^{2+}]}$$
+
+- **\(R_{\text{ion}}\):** Ratio of zinc to magnesium ions.  
+- **\([Zn^{2+}]\):** Concentration of zinc ions.  
+- **\([Mg^{2+}]\):** Concentration of magnesium ions.  
+
 
 **Purpose**: Optimizes the balance of stabilizing ions in molecular systems.
 
@@ -88,11 +92,13 @@ The PSREQ Pathway is not only a response to the urgent need for effective viral 
 #### **3. Recursive Harmonic Alignment (RHA)**
 
 **Formula**:  
-# $$\[H = \frac{1}{n} \sum_{i=1}^{n} \left( \frac{E_i - E_t}{E_t} \right)^2\]$$  
-- \(H\): Harmonic alignment metric.  
-- \(E_i\): Energy at iteration \(i\).  
-- \(E_t\): Target energy.  
-- \(n\): Number of iterations.  
+# $$H = \frac{1}{n} \sum_{i=1}^{n} \left( \frac{E_i - E_t}{E_t} \right)^2$$
+
+- **\(H\):** Harmonic alignment metric.  
+- **\(E_i\):** Energy at iteration \(i\).  
+- **\(E_t\):** Target energy.  
+- **\(n\):** Number of iterations.  
+
 
 **Purpose**: Aligns kinetic and thermodynamic properties to achieve stable molecular behavior.
 
@@ -101,10 +107,12 @@ The PSREQ Pathway is not only a response to the urgent need for effective viral 
 #### **4. Proline-Glycine Flexibility Index (PGFI)**
 
 **Formula**:  
-# $$\[F = \frac{[Pro]}{[Gly] + [Pro]}\]$$  
-- \(F\): Flexibility index.  
-- \([Pro]\): Concentration of proline residues.  
-- \([Gly]\): Concentration of glycine residues.  
+# $$F = \frac{[Pro]}{[Gly] + [Pro]}$$
+
+- **\(F\):** Flexibility index.  
+- **\([Pro]\):** Concentration of proline residues.  
+- **\([Gly]\):** Concentration of glycine residues.  
+
 
 **Purpose**: Measures structural flexibility critical for dynamic binding.
 
@@ -113,10 +121,12 @@ The PSREQ Pathway is not only a response to the urgent need for effective viral 
 #### **5. Viral Inhibition Efficiency (VIE)**
 
 **Formula**:  
-# $$\[VIE = \frac{K_d}{IC_{50}}\]$$  
-- \(VIE\): Efficiency of viral inhibition.  
-- \(K_d\): Binding dissociation constant.  
-- \(IC_{50}\): Half-maximal inhibitory concentration.  
+# $$VIE = \frac{K_d}{IC_{50}}$$
+
+- **\(VIE\):** Efficiency of viral inhibition.  
+- **\(K_d\):** Binding dissociation constant.  
+- **\(IC_{50}\):** Half-maximal inhibitory concentration.  
+
 
 **Purpose**: Quantifies the effectiveness of a molecule in inhibiting viral processes.
 
@@ -125,10 +135,13 @@ The PSREQ Pathway is not only a response to the urgent need for effective viral 
 #### **6. Energy Buffering Factor (EBF)**
 
 **Formula**:  
-# $$\[E_{\text{buffer}} = [Mg^{2+}] \cdot \Delta H_{\text{kinetic}}\]$$  
-- \(E_{\text{buffer}}\): Energy stabilization factor.  
-- \([Mg^{2+}]\): Magnesium ion concentration.  
-- \(\Delta H_{\text{kinetic}}\): Kinetic energy fluctuation.  
+# $$SDP = \frac{\sum_{i} F_i \cdot r_i}{\sum_{j} E_j}$$
+
+- **\(SDP\):** Disruption potential.  
+- **\(F_i\):** Force on viral structure \(i\).  
+- **\(r_i\):** Distance for force application.  
+- **\(E_j\):** Total energy of viral components.  
+  
 
 **Purpose**: Ensures kinetic stability during molecular interaction.
 
@@ -150,10 +163,12 @@ The PSREQ Pathway is not only a response to the urgent need for effective viral 
 #### **8. Molecular Compression Efficiency (MCE)**
 
 **Formula**:  
-# $$\[MCE = \frac{E_{\text{total}}}{E_{\text{compressed}}}\]$$ 
-- \(MCE\): Efficiency of molecular energy compression.  
-- \(E_{\text{total}}\): Total system energy.  
-- \(E_{\text{compressed}}\): Compressed energy after recursive optimization.  
+# $$MCE = \frac{E_{\text{total}}}{E_{\text{compressed}}}$$
+
+- **\(MCE\):** Efficiency of molecular energy compression.  
+- **\(E_{\text{total}}\):** Total system energy.  
+- **\(E_{\text{compressed}}\):** Compressed energy after recursive optimization.  
+ 
 
 **Purpose**: Evaluates the system’s ability to achieve harmonic energy alignment.
 
@@ -162,10 +177,11 @@ The PSREQ Pathway is not only a response to the urgent need for effective viral 
 #### **9. Cellular Environmental Influence (CEI)**
 
 **Formula**:  
-# $$\[C_{\text{env}} = \text{Len}(N_{\text{cell}} - P_{\text{genome}})\]$$  
-- \(C_{\text{env}}\): Environmental container size.  
-- \(N_{\text{cell}}\): Active cellular state.  
-- \(P_{\text{genome}}\): Genetic baseline sequence.  
+# $$C_{\text{env}} = \text{Len}(N_{\text{cell}} - P_{\text{genome}})$$
+
+- **\(C_{\text{env}}\):** Environmental container size.  
+- **\(N_{\text{cell}}\):** Active cellular state.  
+- **\(P_{\text{genome}}\):** Genetic baseline sequence. 
 
 **Purpose**: Quantifies the environmental influence on cellular activity.
 
@@ -176,10 +192,11 @@ Here’s the corrected and cleanly formatted version:
 
 This formatting ensures the formula, variables, and purpose are presented clearly and professionally. Let me know if you'd like further refinements!
 **Formula**:  
-# $$RP = \text{Proteome} - \text{Cellular Waste}\$$  
-- **\(RP\):** Regenerative capacity.  
-- **\(\text{Proteome}\):** Functional protein output.  
-- **\(\text{Cellular Waste}\):** Accumulated byproducts of metabolism.   
+# $$RP = \text{Proteome} - \text{Cellular Waste}$$
+
+- **RP:** Regenerative capacity.  
+- **Proteome:** Functional protein output.  
+- **Cellular Waste:** Accumulated byproducts of metabolism.   
 
 **Purpose**: Evaluates the system's capacity for self-renewal and preparation for future biological challenges.
 
