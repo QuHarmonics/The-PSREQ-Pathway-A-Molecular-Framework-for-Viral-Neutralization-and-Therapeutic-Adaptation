@@ -8,7 +8,6 @@ This directory contains visual assets that illustrate the concepts, mechanisms, 
 
 ### 1. **Molecular Interaction Plot**
 ![Molecular Interaction Plot](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Visuals/Molecular_Interaction_Plot.png)
-![Molecular Interaction Plot](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Visuals/Simplified-Chemical-Bonding-Diagram-for-PSREQ-with-Zn-and-Mg-Stabilizers.png)
 - **Description**: This plot visualizes the targeted binding of PSREQ peptides to viral glycoproteins and host cellular components. It demonstrates how specific residues (proline, serine, glycine) stabilize interactions through hydrogen bonding and ionic anchoring.
 - **Purpose**: To illustrate the precise targeting mechanism of PSREQ peptides, emphasizing their high specificity and adaptability.
 
@@ -26,6 +25,7 @@ This directory contains visual assets that illustrate the concepts, mechanisms, 
 ![PSREQ Peptide Structure](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Visuals/the_PSREQ_peptide_structure.png)
 - **Description**: A detailed chemical structure of the PSREQ peptide, showcasing the arrangement of residues and functional groups that drive its efficacy.
 - **Purpose**: Provides a molecular-level reference for researchers interested in synthesis, optimization, and application of the peptide.
+![Molecular Interaction Plot](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Visuals/Simplified-Chemical-Bonding-Diagram-for-PSREQ-with-Zn-and-Mg-Stabilizers.png)
 
 ---
 
