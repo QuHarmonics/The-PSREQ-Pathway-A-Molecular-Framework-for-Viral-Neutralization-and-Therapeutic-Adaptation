@@ -26,7 +26,7 @@ The PSREQ framework has been developed to address the limitations of current ant
    - [Molecule 1](#molecule-1)
    - [Molecule 2](#molecule-2)
    - [Molecule 3](#molecule-3)
-6. [Tools and Frameworks](#tools-and-frameworks)
+6. [Tools and Formulas](#tools-and-formulas)
    - [Molecular Binding Stability (MBS)](#molecular-binding-stability-mbs)
    - [Ionic Coordination Ratio (ICR)](#ionic-coordination-ratio-icr)
    - [Recursive Harmonic Alignment (RHA)](#recursive-harmonic-alignment-rha)
@@ -38,35 +38,7 @@ The PSREQ framework has been developed to address the limitations of current ant
 7. [Future Directions](#future-directions)
 8. [Conclusion](#conclusion)
 
----
 
-### Tools and Frameworks Section Example
-
-#### Molecular Binding Stability (MBS)
-Provides a calculation for binding energy stability using charge interactions and harmonic buffering.
-
-#### Ionic Coordination Ratio (ICR)
-Optimizes zinc-to-magnesium ion ratios for molecular stabilization.
-
-#### Recursive Harmonic Alignment (RHA)
-Aligns kinetic and thermodynamic properties for molecular optimization.
-
-#### Proline-Glycine Flexibility Index (PGFI)
-Evaluates peptide flexibility through proline and glycine ratios.
-
-#### Viral Inhibition Efficiency (VIE)
-Quantifies the molecule’s inhibitory efficiency against viral replication.
-
-#### Energy Buffering Factor (EBF)
-Ensures kinetic stability in molecular interactions using magnesium ions.
-
-#### Structural Disruption Potential (SDP)
-Predicts the molecule's ability to disrupt viral assembly processes.
-
-#### Molecular Compression Efficiency (MCE)
-Evaluates the system's ability to harmonize molecular energy states.
-
----
 
 This addition aligns with the structure of your repository and provides a detailed overview of the tools for readers and researchers exploring the framework.
 
