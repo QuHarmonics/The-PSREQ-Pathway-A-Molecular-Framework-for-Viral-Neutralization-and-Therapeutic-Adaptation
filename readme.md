@@ -96,7 +96,21 @@ graph TD
     D -->|Destabilizes epigenetic changes, minimizing recurrence| E[Virion Assembly]
     E -->|Disrupts capsid assembly and viral particle production| F[Inhibition of Viral Spread]
 ```
+### **Recursive Interactions and Modularity**
+```mermaid
+graph TD
+    Module1["Peptide Module 1"]
+    Module2["Peptide Module 2"]
+    Module3["Peptide Module 3"]
+    Module4["Peptide Module 4"]
+    Complex["Therapeutic Complex"]
+    Virus["Viral Target"]
 
+    Module1 --> Complex
+    Module2 --> Complex
+    Module3 --> Complex
+    Module4 --> Complex
+    Complex --> Virus
 ## Expanded Therapeutic Potential
 
 While initially developed for HSV and viral therapies, the PSREQ Pathway’s modular and adaptable framework extends its utility to non-viral conditions, including cancer, autoimmune disorders, and tissue regeneration.
