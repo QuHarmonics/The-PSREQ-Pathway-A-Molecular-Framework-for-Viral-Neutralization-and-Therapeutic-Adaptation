@@ -35,13 +35,6 @@ The PSREQ framework has been developed to address the limitations of current ant
 7. [Future Directions](#future-directions)  
 8. [Conclusion](#conclusion)
 
----
-
-This structure assumes the respective sections exist in the document with the same titles and updates all the anchors to correspond correctly to GitHub's formatting. Let me know if any specific adjustments are needed or if there are additional sections to include!
-
-
-
-This addition aligns with the structure of your repository and provides a detailed overview of the tools for readers and researchers exploring the framework.
 
 ---
 
