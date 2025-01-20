@@ -111,6 +111,8 @@ graph TD
     Module3 --> Complex
     Module4 --> Complex
     Complex --> Virus
+
+```
 ## Expanded Therapeutic Potential
 
 While initially developed for HSV and viral therapies, the PSREQ Pathway’s modular and adaptable framework extends its utility to non-viral conditions, including cancer, autoimmune disorders, and tissue regeneration.
