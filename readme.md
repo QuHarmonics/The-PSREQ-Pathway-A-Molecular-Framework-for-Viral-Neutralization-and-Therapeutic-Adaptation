@@ -1,5 +1,52 @@
 ## NOTE: This GIT is updating hourly
 
+
+# Table of Contents
+
+## Overview
+- [Introduction](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation#introduction)
+- [Lifecycle Disruptions](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation#lifecycle-disruptions-caused-by-the-psreq-pathway)
+- [Comparison with Existing Therapies](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation#comparison-with-existing-therapies)
+
+---
+
+## Marvin Files
+- [Molecule 1](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Marvin_Files/Molecule1.mrv)
+- [Molecule 2](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Marvin_Files/Molecule2.mrv)
+- [Molecule 3](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Marvin_Files/Molecule3.mrv)
+
+---
+
+## Herpes Simplex Virus (HSV)
+- [Readme](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Herpes%20simplex%20virus%20(HSV)/readme.md)
+- [Lifecycle Disruptions](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Herpes%20simplex%20virus%20(HSV)/Lifecycle_Disruptions.md)
+
+---
+
+## Human Immunodeficiency Virus (HIV)
+- [Readme](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Human%20immunodeficiency%20viruses%20HIV/readme.md)
+- [Molecular Framework](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Human%20immunodeficiency%20viruses%20HIV/Molecular_Framework.md)
+
+---
+
+## Tools and Frameworks
+- [Expanded Therapeutic Potential](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation#expanded-therapeutic-potential)
+- [Potential Risks or Challenges](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation#potential-risks-or-challenges)
+
+---
+
+## Supporting Files
+- [PSREQ Pathway Visualization](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Visualization/PSREQ_Pathway_Diagram.png)
+- [Lifecycle Flowchart](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/blob/main/Visualization/Lifecycle_Flowchart.png)
+
+---
+
+## Future Applications
+- [Synthetic Biology](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation#synthetic-biology-applications)
+- [Regenerative Medicine](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation#regenerative-medicine)
+- [Oncology and Autoimmune Diseases](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation#oncology)
+
+
 # The PSREQ Pathway: A Molecular Framework for Viral Neutralization and Therapeutic Innovation  
 
 The PSREQ Pathway represents a novel therapeutic framework designed to address some of the most persistent challenges in viral pathology and disease management. Rooted in cutting-edge principles of molecular bioengineering, this pathway leverages adaptive peptide designs, ionic stabilization, and targeted disruption of critical viral processes to neutralize pathogens with high specificity and efficacy. The pathway’s modular architecture makes it uniquely suited for tackling complex, multi-faceted diseases such as [HIV] and [Herpes Simplex Virus (HSV)] while also offering potential extensions into broader areas of medicine, including oncology, autoimmune disorders, and regenerative therapies.
