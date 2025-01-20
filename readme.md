@@ -10,10 +10,6 @@ The PSREQ framework has been developed to address the limitations of current ant
 
 ---
 
-Here's an updated Table of Contents for your GitHub README, including a new section for the tools based on the formulas provided:
-
----
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
