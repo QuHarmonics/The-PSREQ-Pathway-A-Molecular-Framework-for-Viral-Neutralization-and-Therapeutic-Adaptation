@@ -62,9 +62,7 @@ The PSREQ Pathway is not only a response to the urgent need for effective viral 
 #### **1. Molecular Binding Stability (MBS)**
 
 **Formula**:  
-# $$\[
-E_b = k_b \cdot \frac{q_1 q_2}{r} + H
-\]$$  
+# $$\[E_b = k_b \cdot \frac{q_1 q_2}{r} + H\]$$  
 - \(E_b\): Binding energy.  
 - \(k_b\): Binding constant.  
 - \(q_1, q_2\): Charges of interacting molecules.  
@@ -78,9 +76,7 @@ E_b = k_b \cdot \frac{q_1 q_2}{r} + H
 #### **2. Ionic Coordination Ratio (ICR)**
 
 **Formula**:  
-# $$\[
-R_{\text{ion}} = \frac{[Zn^{2+}]}{[Mg^{2+}]}
-\]$$  
+# $$\[R_{\text{ion}} = \frac{[Zn^{2+}]}{[Mg^{2+}]}\]$$  
 - \(R_{\text{ion}}\): Ratio of zinc to magnesium ions.  
 - \([Zn^{2+}]\): Concentration of zinc ions.  
 - \([Mg^{2+}]\): Concentration of magnesium ions.  
@@ -92,9 +88,7 @@ R_{\text{ion}} = \frac{[Zn^{2+}]}{[Mg^{2+}]}
 #### **3. Recursive Harmonic Alignment (RHA)**
 
 **Formula**:  
-# $$\[
-H = \frac{1}{n} \sum_{i=1}^{n} \left( \frac{E_i - E_t}{E_t} \right)^2
-\]$$  
+# $$\[H = \frac{1}{n} \sum_{i=1}^{n} \left( \frac{E_i - E_t}{E_t} \right)^2\]$$  
 - \(H\): Harmonic alignment metric.  
 - \(E_i\): Energy at iteration \(i\).  
 - \(E_t\): Target energy.  
