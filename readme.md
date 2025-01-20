@@ -10,15 +10,69 @@ The PSREQ framework has been developed to address the limitations of current ant
 
 ---
 
-## Table of Contents  
-1. [Introduction](#introduction)  
-2. [HIV and the PSREQ Pathway](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/tree/main/Human%20immunodeficiency%20viruses%20HIV)  
-3. [Herpes Simplex Virus (HSV) and PSREQ](https://github.com/QuHarmonics/The-PSREQ-Pathway-A-Molecular-Framework-for-Viral-Neutralization-and-Therapeutic-Adaptation/tree/main/Herpes%20simplex%20virus%20(HSV))  
-4. [Design Principles of the PSREQ Pathway](#the-psreq-pathways-design-principles)  
-   - 4.1 [Targeted Molecular Binding](#1-targeted-molecular-binding)  
-   - 4.2 [Ionic Stabilization](#2-ionic-stabilization)  
-   - 4.3 [Systemic Disruption of Viral Processes](#3-systemic-disruption-of-viral-processes)  
-5. [Applications Beyond Viral Pathogenesis](#applications-beyond-viral-pathogenesis)  
+Here's an updated Table of Contents for your GitHub README, including a new section for the tools based on the formulas provided:
+
+---
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Understanding Viral Neutralization](#understanding-viral-neutralization)
+3. [The PSREQ Pathway](#the-psreq-pathway)
+   - [Peptide Structure](#peptide-structure)
+   - [Stabilization Mechanisms](#stabilization-mechanisms)
+   - [Targeted Binding and Disruption](#targeted-binding-and-disruption)
+4. [Therapeutic Applications](#therapeutic-applications)
+   - [HSV Management](#hsv-management)
+   - [HIV Neutralization](#hiv-neutralization)
+   - [Broader Medical Applications](#broader-medical-applications)
+5. [Chemical Composition and Molecular Analysis](#chemical-composition-and-molecular-analysis)
+   - [Molecule 1](#molecule-1)
+   - [Molecule 2](#molecule-2)
+   - [Molecule 3](#molecule-3)
+6. [Tools and Frameworks](#tools-and-frameworks)
+   - [Molecular Binding Stability (MBS)](#molecular-binding-stability-mbs)
+   - [Ionic Coordination Ratio (ICR)](#ionic-coordination-ratio-icr)
+   - [Recursive Harmonic Alignment (RHA)](#recursive-harmonic-alignment-rha)
+   - [Proline-Glycine Flexibility Index (PGFI)](#proline-glycine-flexibility-index-pgfi)
+   - [Viral Inhibition Efficiency (VIE)](#viral-inhibition-efficiency-vie)
+   - [Energy Buffering Factor (EBF)](#energy-buffering-factor-ebf)
+   - [Structural Disruption Potential (SDP)](#structural-disruption-potential-sdp)
+   - [Molecular Compression Efficiency (MCE)](#molecular-compression-efficiency-mce)
+7. [Future Directions](#future-directions)
+8. [Conclusion](#conclusion)
+
+---
+
+### Tools and Frameworks Section Example
+
+#### Molecular Binding Stability (MBS)
+Provides a calculation for binding energy stability using charge interactions and harmonic buffering.
+
+#### Ionic Coordination Ratio (ICR)
+Optimizes zinc-to-magnesium ion ratios for molecular stabilization.
+
+#### Recursive Harmonic Alignment (RHA)
+Aligns kinetic and thermodynamic properties for molecular optimization.
+
+#### Proline-Glycine Flexibility Index (PGFI)
+Evaluates peptide flexibility through proline and glycine ratios.
+
+#### Viral Inhibition Efficiency (VIE)
+Quantifies the molecule’s inhibitory efficiency against viral replication.
+
+#### Energy Buffering Factor (EBF)
+Ensures kinetic stability in molecular interactions using magnesium ions.
+
+#### Structural Disruption Potential (SDP)
+Predicts the molecule's ability to disrupt viral assembly processes.
+
+#### Molecular Compression Efficiency (MCE)
+Evaluates the system's ability to harmonize molecular energy states.
+
+---
+
+This addition aligns with the structure of your repository and provides a detailed overview of the tools for readers and researchers exploring the framework.
 
 ---
 
@@ -151,5 +205,3 @@ This structured approach ensures a professional and clear presentation, linking 
 *   **Purpose**: Evaluates the system’s ability to achieve harmonic energy alignment.
 
 * * *
-
-This cheat sheet provides a focused reference for essential formulas tailored to molecular interactions, stabilization, and efficiency. Let me know if any formula needs additional context or modification!
