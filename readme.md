@@ -1,3 +1,4 @@
+## NOTE: This GIT is updating hourly
 
 # The PSREQ Pathway: A Molecular Framework for Viral Neutralization and Therapeutic Innovation  
 
