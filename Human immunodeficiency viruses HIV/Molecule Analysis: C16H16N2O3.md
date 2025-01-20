@@ -1,6 +1,6 @@
 **Molecule Analysis: C16H16N2O3**
 =================================
-C1=CC(=CC=C1C(=O)N)C2=CC(=CC=C2O)C(=O)NCC
+`C1=CC(=CC=C1C(=O)N)C2=CC(=CC=C2O)C(=O)NCC`
 
 N-(2-Hydroxyphenyl)-N'-(phenyl)malonamide.
 
@@ -124,5 +124,27 @@ This molecule is characterized by a dense array of aromatic rings, suggesting a 
 The molecule **C16H16N2O3** exhibits a unique aromatic-rich structure with significant potential for hydrophobic interactions and electronic activity. While its lack of diverse functional groups reduces its biochemical versatility, its stability and affinity for aromatic and hydrophobic systems make it a strong candidate for further exploration in drug design, particularly as a scaffold for antiviral or enzyme-inhibiting therapies.
 
 * * *
+
+Molecular Formula: C16H16N2O3
+Drawing molecule...
+Amine Matches: 0
+Carboxylic Acid Matches: 0
+Sulfhydryl Matches: 0
+Aromatic Ring Matches: 12
+
+Isomeric Pairs:
+Pairing Amine with Carboxylic Acid:
+Pairing Amine with Sulfhydryl:
+Pairing Amine with Aromatic Ring:
+Pairing Carboxylic Acid with Amine:
+Pairing Carboxylic Acid with Sulfhydryl:
+Pairing Carboxylic Acid with Aromatic Ring:
+Pairing Sulfhydryl with Amine:
+Pairing Sulfhydryl with Carboxylic Acid:
+Pairing Sulfhydryl with Aromatic Ring:
+Pairing Aromatic Ring with Amine:
+Pairing Aromatic Ring with Carboxylic Acid:
+Pairing Aromatic Ring with Sulfhydryl:
+Functional group highlights saved.
 
 This analysis highlights the molecule's strengths and limitations, offering a roadmap for leveraging its properties in research and therapeutic applications.
