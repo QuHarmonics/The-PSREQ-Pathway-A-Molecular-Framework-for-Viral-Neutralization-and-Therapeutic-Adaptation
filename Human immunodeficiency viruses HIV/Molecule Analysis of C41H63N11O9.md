@@ -1,5 +1,8 @@
 Molecule Analysis of C41H63N11O9
 
+CC(C)[C@H](NC(=O)[C@H](C)NC(=O)[C@H](CCCCN)NC(=O)[C@H]1CCCN1C(=O)[C@H](CC1=CNC2=CC=CC=C12)NC(=O)[C@H](C)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](C)N)C=O
+
+
 #### **Molecular Overview**
 
 *   **Molecular Formula**: C41H63N11O9
@@ -84,3 +87,60 @@ The analysis identified potential interactions between functional groups. Below 
 ### Conclusion
 
 This molecule’s unique combination of amines and aromatic rings creates a promising candidate for molecular interaction studies, particularly in antiviral applications. With computational and experimental validation, it could lead to potential applications as an HIV treatment or similar therapeutic agent.
+Molecular Formula: C41H63N11O9
+Drawing molecule...
+Amine Matches: 2
+Carboxylic Acid Matches: 0
+Sulfhydryl Matches: 0
+Aromatic Ring Matches: 9
+
+Isomeric Pairs:
+Pairing Amine with Carboxylic Acid:
+Pairing Amine with Sulfhydryl:
+Pairing Amine with Aromatic Ring:
+  Amine at (17,), Aromatic Ring at (30,)
+  Amine at (17,), Aromatic Ring at (31,)
+  Amine at (17,), Aromatic Ring at (32,)
+  Amine at (17,), Aromatic Ring at (33,)
+  Amine at (17,), Aromatic Ring at (34,)
+  Amine at (17,), Aromatic Ring at (35,)
+  Amine at (17,), Aromatic Ring at (36,)
+  Amine at (17,), Aromatic Ring at (37,)
+  Amine at (17,), Aromatic Ring at (38,)
+  Amine at (58,), Aromatic Ring at (30,)
+  Amine at (58,), Aromatic Ring at (31,)
+  Amine at (58,), Aromatic Ring at (32,)
+  Amine at (58,), Aromatic Ring at (33,)
+  Amine at (58,), Aromatic Ring at (34,)
+  Amine at (58,), Aromatic Ring at (35,)
+  Amine at (58,), Aromatic Ring at (36,)
+  Amine at (58,), Aromatic Ring at (37,)
+  Amine at (58,), Aromatic Ring at (38,)
+Pairing Carboxylic Acid with Amine:
+Pairing Carboxylic Acid with Sulfhydryl:
+Pairing Carboxylic Acid with Aromatic Ring:
+Pairing Sulfhydryl with Amine:
+Pairing Sulfhydryl with Carboxylic Acid:
+Pairing Sulfhydryl with Aromatic Ring:
+Pairing Aromatic Ring with Amine:
+  Aromatic Ring at (30,), Amine at (17,)
+  Aromatic Ring at (30,), Amine at (58,)
+  Aromatic Ring at (31,), Amine at (17,)
+  Aromatic Ring at (31,), Amine at (58,)
+  Aromatic Ring at (32,), Amine at (17,)
+  Aromatic Ring at (32,), Amine at (58,)
+  Aromatic Ring at (33,), Amine at (17,)
+  Aromatic Ring at (33,), Amine at (58,)
+  Aromatic Ring at (34,), Amine at (17,)
+  Aromatic Ring at (34,), Amine at (58,)
+  Aromatic Ring at (35,), Amine at (17,)
+  Aromatic Ring at (35,), Amine at (58,)
+  Aromatic Ring at (36,), Amine at (17,)
+  Aromatic Ring at (36,), Amine at (58,)
+  Aromatic Ring at (37,), Amine at (17,)
+  Aromatic Ring at (37,), Amine at (58,)
+  Aromatic Ring at (38,), Amine at (17,)
+  Aromatic Ring at (38,), Amine at (58,)
+Pairing Aromatic Ring with Carboxylic Acid:
+Pairing Aromatic Ring with Sulfhydryl:
+Functional group highlights saved.
