@@ -137,12 +137,13 @@ The PSREQ Pathway is not only a response to the urgent need for effective viral 
 #### **6. Energy Buffering Factor (EBF)**
 
 **Formula**:  
-# $$SDP = \frac{\sum_{i} F_i \cdot r_i}{\sum_{j} E_j}$$
+# $$EBF = \frac{E_{\text{stored}}}{E_{\text{demand}} + E_{\text{loss}}}$$
 
-- **\(SDP\):** Disruption potential.  
-- **\(F_i\):** Force on viral structure \(i\).  
-- **\(r_i\):** Distance for force application.  
-- **\(E_j\):** Total energy of viral components.  
+- **\(EBF\):** Energy Buffering Factor.  
+- **\(E_{\text{stored}}\):** Energy available in the system.  
+- **\(E_{\text{demand}}\):** Energy required to sustain operations.  
+- **\(E_{\text{loss}}\):** Energy lost during system transitions.  
+
   
 
 **Purpose**: Ensures kinetic stability during molecular interaction.
