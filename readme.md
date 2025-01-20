@@ -62,7 +62,7 @@ The PSREQ Pathway is not only a response to the urgent need for effective viral 
 #### **1. Molecular Binding Stability (MBS)**
 
 **Formula**:  
-#$$\[
+# $$\[
 E_b = k_b \cdot \frac{q_1 q_2}{r} + H
 \]$$  
 - \(E_b\): Binding energy.  
@@ -78,7 +78,7 @@ E_b = k_b \cdot \frac{q_1 q_2}{r} + H
 #### **2. Ionic Coordination Ratio (ICR)**
 
 **Formula**:  
-#$$\[
+# $$\[
 R_{\text{ion}} = \frac{[Zn^{2+}]}{[Mg^{2+}]}
 \]$$  
 - \(R_{\text{ion}}\): Ratio of zinc to magnesium ions.  
@@ -92,7 +92,7 @@ R_{\text{ion}} = \frac{[Zn^{2+}]}{[Mg^{2+}]}
 #### **3. Recursive Harmonic Alignment (RHA)**
 
 **Formula**:  
-#$$\[
+# $$\[
 H = \frac{1}{n} \sum_{i=1}^{n} \left( \frac{E_i - E_t}{E_t} \right)^2
 \]$$  
 - \(H\): Harmonic alignment metric.  
@@ -107,7 +107,7 @@ H = \frac{1}{n} \sum_{i=1}^{n} \left( \frac{E_i - E_t}{E_t} \right)^2
 #### **4. Proline-Glycine Flexibility Index (PGFI)**
 
 **Formula**:  
-#$$\[
+# $$\[
 F = \frac{[Pro]}{[Gly] + [Pro]}
 \]$$  
 - \(F\): Flexibility index.  
@@ -121,7 +121,7 @@ F = \frac{[Pro]}{[Gly] + [Pro]}
 #### **5. Viral Inhibition Efficiency (VIE)**
 
 **Formula**:  
-#$$\[
+# $$\[
 VIE = \frac{K_d}{IC_{50}}
 \]$$  
 - \(VIE\): Efficiency of viral inhibition.  
@@ -135,7 +135,7 @@ VIE = \frac{K_d}{IC_{50}}
 #### **6. Energy Buffering Factor (EBF)**
 
 **Formula**:  
-#$$\[
+# $$\[
 E_{\text{buffer}} = [Mg^{2+}] \cdot \Delta H_{\text{kinetic}}
 \]$$  
 - \(E_{\text{buffer}}\): Energy stabilization factor.  
@@ -149,7 +149,7 @@ E_{\text{buffer}} = [Mg^{2+}] \cdot \Delta H_{\text{kinetic}}
 #### **7. Structural Disruption Potential (SDP)**
 
 **Formula**:  
-#$$\[
+# $$\[
 SDP = \frac{\sum_{i} F_i \cdot r_i}{\sum_{j} E_j}
 \]$$ 
 - \(SDP\): Disruption potential.  
@@ -164,7 +164,7 @@ SDP = \frac{\sum_{i} F_i \cdot r_i}{\sum_{j} E_j}
 #### **8. Molecular Compression Efficiency (MCE)**
 
 **Formula**:  
-#$$\[
+# $$\[
 MCE = \frac{E_{\text{total}}}{E_{\text{compressed}}}
 \]$$ 
 - \(MCE\): Efficiency of molecular energy compression.  
@@ -178,7 +178,7 @@ MCE = \frac{E_{\text{total}}}{E_{\text{compressed}}}
 #### **9. Cellular Environmental Influence (CEI)**
 
 **Formula**:  
-#$$\[
+# $$\[
 C_{\text{env}} = \text{Len}(N_{\text{cell}} - P_{\text{genome}})
 \]$$  
 - \(C_{\text{env}}\): Environmental container size.  
@@ -192,7 +192,7 @@ C_{\text{env}} = \text{Len}(N_{\text{cell}} - P_{\text{genome}})
 #### **10. Regeneration Potential (RP)**
 
 **Formula**:  
-#$$\[
+# $$\[
 RP = \text{Proteome} - \text{Cellular Waste}
 \]$$  
 - \(RP\): Regenerative capacity.  
