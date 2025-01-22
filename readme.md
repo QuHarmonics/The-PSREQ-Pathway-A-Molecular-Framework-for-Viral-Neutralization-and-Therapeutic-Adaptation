@@ -80,20 +80,55 @@ The PSREQ Pathway is not only a response to the urgent need for effective viral 
 | PSREQ Peptide   | C\(_{53}\)H\(_{77}\)N\(_{13}\)O\(_{15}\)                  | `C1=CC=C(C=C1)C2=NC(=O)C(=C2)N[C@@H](C(=O)N3CCCC3)C(=O)N[C@@H](CC4=CC=CC=C4)C(=O)N`                                                | Multistage Target | Binds to conserved viral proteins, blocks entry, disrupts replication, and destabilizes latency. | HSV, HIV, Autoimmune, Oncology |
 
 
-Title: Visualizing Recursive Integration
+# Recursive Feedback and Optimization in PSREQ
+By integrating the PSREQ Pathway with Nexus 2 Bio’s recursive harmonic principles, the framework achieves self-optimization and perpetual refinement. This mechanism ensures that each iteration of peptide design, testing, and validation enhances therapeutic outcomes, adapts to new challenges, and scales across applications.
 
-The following diagrams illustrate how recursive feedback loops enhance the PSREQ Pathway:
+Core Mechanisms
+Recursive Harmonic Subdivision (RHS):
 
-## Recursive Workflow for Peptide Optimization
+This principle iteratively refines peptide structures by subdividing molecular flexibility into smaller harmonic subsets.
+Example: Aligns peptide motifs to conserved viral proteins like glycoproteins, ensuring precise binding while maintaining adaptability to strain variations.
+Ionic Coordination Ratio (ICR):
 
+Maintains a precise balance between stabilizing ions (Zn²⁺ and Mg²⁺) to ensure peptide stability under variable physiological conditions.
+Example: Improves peptide efficacy in acidic environments like tumor microenvironments or infected tissue sites.
+Predictive Wavefront Propagators (RWP):
+
+Anticipates future interactions by simulating peptide binding scenarios and preemptively optimizing for new pathogens.
+Example: Models HSV viral entry pathways to disrupt glycoprotein-host receptor interactions at multiple stages.
+Practical Workflow
+1. Initial Input:
+
+Begin with an engineered peptide targeting a specific viral glycoprotein.
+2. Recursive Refinement:
+
+Apply RHS to refine the peptide's flexibility and alignment.
+Adjust ICR to enhance ionic stabilization during binding.
+3. Predictive Modeling:
+
+Use RWP to simulate binding scenarios against viral mutations or different pathogens.
+4. Output and Re-Input:
+
+Generate an optimized peptide, validate its performance, and feed the results back into the system to refine further.
+Visualization of Recursive Integration
 ```mermaid
+
 graph TD
     Input["Initial Peptide Design"] --> Refinement["Recursive Refinement"]
-    Refinement --> Testing["Simulation & Validation"]
-    Testing --> Output["Optimized Peptide"]
+    Refinement --> Simulation["Predictive Modeling (RWP)"]
+    Simulation --> Validation["Experimental Testing"]
+    Validation --> Output["Optimized Peptide"]
     Output --> Input
-
 ```
+Real-World Applications
+Virus-Specific Optimization:
+
+Recursive loops ensure peptides remain effective across evolving viral strains like HSV and HIV.
+Regenerative Medicine:
+Predictive modeling and recursive feedback enhance extracellular matrix stabilization for accelerated wound healing.
+Oncology:
+Recursive alignment enables precise targeting of tumor antigens, ensuring peptides adapt to the dynamic nature of cancer cells.
+
 ## Lifecycle Disruption of HSV by PSREQ
 
 ```mermaid
