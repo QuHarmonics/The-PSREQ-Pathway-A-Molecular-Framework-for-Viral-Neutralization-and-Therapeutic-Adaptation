@@ -3,7 +3,7 @@
 **The PSREQ Pathway: A Molecular Framework for Viral Neutralization and Therapeutic Innovation**
 ================================================================================================
 
-The **PSREQ Pathway** represents a novel therapeutic framework designed to address some of the most persistent challenges in viral pathology and disease management. Rooted in cutting-edge principles of molecular bioengineering, this pathway leverages adaptive peptide designs, ionic stabilization, and targeted disruption of critical viral processes to neutralize pathogens with high specificity and efficacy. Its modular architecture makes it uniquely suited for tackling complex, multi-faceted diseases such as [HIV] and [Herpes Simplex Virus (HSV)], while also offering potential extensions into broader areas of medicine, including oncology, autoimmune disorders, and regenerative therapies.
+The PSREQ Pathway is a cutting-edge therapeutic framework that combines advanced peptide engineering, ionic stabilization, and recursive feedback systems to achieve unparalleled precision in pathogen neutralization. Through its integration with the Nexus 2 Bio recursive harmonics framework, the PSREQ Pathway achieves self-optimization, adaptability to new challenges, and scalability across therapeutic domains such as virology, oncology, and regenerative medicine.
 
 The **PSREQ framework** has been meticulously developed to address the limitations of current antiviral and therapeutic strategies. Conventional approaches often rely on therapies that target singular viral mechanisms or transient stages of infection, leaving room for viral resistance, incomplete suppression, and persistent latency. In contrast, the **PSREQ Pathway** integrates three complementary mechanisms to deliver unparalleled efficacy:
 
@@ -78,6 +78,31 @@ The PSREQ Pathway is not only a response to the urgent need for effective viral 
 | Stabilizer      | C\(_{41}\)H\(_{63}\)N\(_{11}\)O\(_{9}\)                   | `CC(C)[C@H](NC(=O)[C@H](C)NC(=O)[C@H](CCCCN)NC(=O)[C@H]1CCCN1C(=O)[C@H](CC1=CNC2=CC=CC=C12)NC(=O)[C@H](C)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](C)N)C=O` | Stability        | Enhances molecular interactions via zinc and magnesium stabilization.                           | HSV, HIV                  |
 | Disruptor       | C\(_{61}\)H\(_{142}\)N\(_{22}\)O\(_{5}\)S\(_{7}\)        | `CC(O)[C@@H](CNCCNCCN[C@@H](CS)CN[C@@H](CS)CN[C@@H](C)CN[C@@H](C)CN[C@H](CN[C@@H](C)CNCCN[C@@H](CS)CN[C@@H](C)C(=O)C(O)=O)C(C)O)NC[C@H](C)NC[C@H](CS)NCCNCCNC[C@H](C)NC[C@H](CS)NC[C@H](C)NC[C@H](CS)NC[C@H](CS)NN` | Disruption       | Breaks viral disulfide bonds, halting replication and assembly.                                  | HSV, HIV, Oncology         |
 | PSREQ Peptide   | C\(_{53}\)H\(_{77}\)N\(_{13}\)O\(_{15}\)                  | `C1=CC=C(C=C1)C2=NC(=O)C(=C2)N[C@@H](C(=O)N3CCCC3)C(=O)N[C@@H](CC4=CC=CC=C4)C(=O)N`                                                | Multistage Target | Binds to conserved viral proteins, blocks entry, disrupts replication, and destabilizes latency. | HSV, HIV, Autoimmune, Oncology |
+
+
+Title: Visualizing Recursive Integration
+
+The following diagrams illustrate how recursive feedback loops enhance the PSREQ Pathway:
+
+## Recursive Workflow for Peptide Optimization
+
+```mermaid
+graph TD
+    Input["Initial Peptide Design"] --> Refinement["Recursive Refinement"]
+    Refinement --> Testing["Simulation & Validation"]
+    Testing --> Output["Optimized Peptide"]
+    Output --> Input
+
+```
+## Lifecycle Disruption of HSV by PSREQ
+
+```mermaid
+graph TD
+    ViralEntry["Viral Entry"] -->|Blocks glycoproteins| Replication["Inhibits DNA Replication"]
+    Replication -->|Prevents genome duplication| Assembly["Disrupts Virion Assembly"]
+    Assembly -->|Halts viral particle production| Spread["Inhibits Viral Spread"]
+```
+
 
 
 # Lifecycle Disruptions Caused by the PSREQ Pathway
