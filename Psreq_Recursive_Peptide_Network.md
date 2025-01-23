@@ -114,3 +114,9 @@ graph TD
     Module3 --> Complex
     Module4 --> Complex
     Complex --> Virus
+```
+
+![Molecule_3_Wireframe](Visuals/Molecule_3_Wireframe.png)
+![Molecule_3_Stick](Visuals/Molecule_3_Stick.png)
+![Molecule_3_Stickball](Visuals/Molecule_3_Stickball.png)
+![Molecule_3_Spacefill](Visuals/Molecule_3_Spacefill.png)
