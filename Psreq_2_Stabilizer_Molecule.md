@@ -94,7 +94,7 @@ Molecule 2, **PSREQ Stabilizer**, serves as the second component of the PSREQ Pa
 
 #### **Conclusion**
 **PSREQ Stabilizer** is a versatile molecular tool designed to anchor and stabilize therapeutic interactions within the PSREQ Pathway. Its peptide backbone, combined with its ability to adapt and stabilize under fluctuating biological conditions, makes it a critical intermediary in the multi-stage therapeutic process. By targeting conserved viral mechanisms, it ensures durability and efficacy, bridging the gap between molecular binding and functional disruption.
-![](Visuals/molecule_2-wireframe.png)
-![](Visuals/molecule_2-Stick.png)
-![](Visuals/molecule_2-stick-ball.png)
-![](Visuals/molecule_2-spacefill.png)
+![Molecule_2_Wireframe](Visuals/Molecule_2_Wireframe.png)
+![Molecule_2_Stick](Visuals/Molecule_2_Stick.png)
+![Molecule_2_Stickball](Visuals/Molecule_2_Stickball.png)
+![Molecule_2_Spacefill](Visuals/Molecule_2_Spacefill.png)
