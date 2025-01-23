@@ -38,7 +38,7 @@ Our analysis using these signal processing techniques revealed the following key
     
 3.  **Wavelet Coefficients**: The wavelet coefficients plot revealed distinct frequency components with varying amplitudes, indicating multiple frequencies are involved in the signal's behavior. This emphasizes the multi-frequency nature of the PSREQ pathway.
     
-
+![Waveform](Visuals/Signal-Processing-Analysis-of-the-PSREQ-Pathway.png)
 * * *
 
 ### **Discussion**
