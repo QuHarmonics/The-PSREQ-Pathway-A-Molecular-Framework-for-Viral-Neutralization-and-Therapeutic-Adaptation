@@ -15,9 +15,7 @@ The **PSREQ framework** has been meticulously developed to address the limitatio
 
 This multifaceted approach ensures adaptability, durability, and precision in addressing viral pathogenesis while minimizing the risk of resistance. Beyond its applications in virology, the **PSREQ Pathway** serves as a scalable framework for broader medical challenges, setting the stage for innovative solutions in personalized medicine.
 
-![Waveform](Visuals/Signal-Processing-Analysis-of-the-PSREQ-Pathway.png)
-
-The peptide introduction should fit seamlessly within the **Targeted Molecular Binding** section, as that is where its structure, functionality, and specificity are discussed. Here's how to incorporate the peptide into this section, with an emphasis on its discovery, features, and role in the pathway:
+![Waveform](Visuals/the_PSREQ_peptide_structure.png)
 
 * * *
 
