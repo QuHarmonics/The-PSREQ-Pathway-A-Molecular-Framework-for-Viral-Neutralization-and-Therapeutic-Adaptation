@@ -1,3 +1,5 @@
+## [The Universal Framework of Recursive Emergence](https://zenodo.org/records/14708793)
+
 ## NOTE: This GIT is updating hourly
 
 **The PSREQ Pathway: A Molecular Framework for Viral Neutralization and Therapeutic Innovation**
