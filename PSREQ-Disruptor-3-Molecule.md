@@ -90,3 +90,8 @@ Molecule 3 functions as a disruptor through targeted interaction and systemic de
 
 #### **Conclusion**
 **PSREQ Disruptor** is the keystone of the PSREQ Pathway, designed to dismantle viral replication and structural processes. Its sulfhydryl reactivity, combined with a versatile peptide backbone and ionic stabilization, ensures comprehensive therapeutic action. By complementing the roles of Molecule 1 and Molecule 2, Molecule 3 delivers a robust and dynamic approach to viral neutralization, solidifying the PSREQ Pathway as a transformative framework in antiviral and therapeutic medicine.
+
+![](Visuals/milecule_3_wireframe.png)
+![](Visuals/molecule_3_stick.png)
+![](Visuals/molecule_3_ball_stick.png)
+![](Visuals/molecule_3_spacefill.png)
