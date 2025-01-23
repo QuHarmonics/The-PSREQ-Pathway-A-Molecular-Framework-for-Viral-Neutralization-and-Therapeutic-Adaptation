@@ -1,4 +1,4 @@
-# [Zezodo - The Universal Framework of Recursive Emergence](https://zenodo.org/records/14708793)
+# [Zenodo - The Universal Framework of Recursive Emergence](https://zenodo.org/records/14708793)
 
 ## NOTE: This GIT is updating hourly
 
